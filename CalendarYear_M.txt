@@ -1,0 +1,21 @@
+let
+    // Define the start and end dates
+    StartDate = #date(2020, 1, 1),
+    EndDate = Date.AddYears(Date.From(DateTime.LocalNow()),1),
+
+    // Generate a list of dates from StartDate to EndDate
+    DateList = List.Dates(StartDate, Duration.Days(EndDate - StartDate) + 1, #duration(1, 0, 0, 0)),
+
+    // Convert the list into a table
+    Calendar = Table.FromList(DateList, Splitter.SplitByNothing(), {"Date"}),
+
+    // Add additional date-related columns
+    AddYear = Table.AddColumn(Calendar, "Year", each Date.Year([Date])),
+    AddMonth = Table.AddColumn(AddYear, "Month", each Date.Month([Date])),
+    AddDay = Table.AddColumn(AddMonth, "Day", each Date.Day([Date])),
+    AddMonthName = Table.AddColumn(AddDay, "MonthName", each Date.ToText([Date], "MMMM")),
+    AddQuarter = Table.AddColumn(AddMonthName, "Quarter", each "Q" & Number.ToText(Date.QuarterOfYear([Date]))),
+    AddWeekday = Table.AddColumn(AddQuarter, "Weekday", each Date.DayOfWeekName([Date])),
+    DetectDataTypes = Table.TransformColumnTypes(AddWeekday,{{"Date", type date}, {"Year", Int64.Type}, {"Month", Int64.Type}, {"Day", Int64.Type}, {"MonthName", type text}, {"Quarter", type text}, {"Weekday", type text}})
+in
+    DetectDataTypes
