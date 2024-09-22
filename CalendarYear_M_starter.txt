@@ -1,0 +1,14 @@
+let
+    // Define the start and end dates
+    StartDate = #date(2023, 1, 1),
+    // Set how many years into the future the rolling calendar will go...  (i.e. 1 = one year, 2 = two year, 0=current year, etc.)
+    SetFutureYears = 1,
+    EndDate = Date.AddYears(Date.From(DateTime.LocalNow()),SetFutureYears),
+
+    // Generate a list of dates from StartDate to EndDate
+    DateList = List.Dates(StartDate, Duration.Days(EndDate - StartDate) + 1, #duration(1, 0, 0, 0)),
+
+    // Convert the list into a table
+    RollingCalendar = Table.FromList(DateList, Splitter.SplitByNothing(), {"Date"})
+in
+    RollingCalendar
