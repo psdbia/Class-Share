@@ -1,0 +1,1318 @@
+﻿ID,LastName,FirstName,Title,f.Gender,Gender,txt.Gender,f.Boarded,txt.Boarded,f.Class,txt.Class,int.Yrs,f.Survived,txt.Survive
+1,Ab i-Al-Munà,Mr Nas if Qasim,Mr,0,M,Male,2,Cherbourg,3,3rd,26,1,Yes
+2,Abbing,Mr Anthony,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+3,Abbott,Mrs Rhoda Mary “Rosa”,Mrs,1,F,Female,1,Southampton,3,3rd,39,1,Yes
+4,Abbott,Mr Rossmore Edward,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+5,Abbott,Mr Eugene Joseph,Mr,0,M,Male,1,Southampton,3,3rd,14,0,No
+6,Abelseth,Mr Olaus Jørgensen,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+7,Abelseth,Miss Karen Marie,Miss,1,F,Female,1,Southampton,3,3rd,16,1,Yes
+8,Abelson,Mr Samuel,Mr,0,M,Male,2,Cherbourg,2,2nd,30,0,No
+9,Abelson,Mrs Hannah,Mrs,1,F,Female,2,Cherbourg,2,2nd,28,1,Yes
+10,Abrahamsson,Mr Abraham August Johannes,Mr,0,M,Male,1,Southampton,3,3rd,20,1,Yes
+11,Ådahl,Mr Mauritz,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+12,Adams,Mr John,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+13,Ahlin,Mrs Johanna Persdotter,Mrs,1,F,Female,1,Southampton,3,3rd,40,0,No
+14,Aks,Master Frank Philip,Master,0,M,Male,1,Southampton,3,3rd,0,1,Yes
+15,Aks,Mrs Leah,Mrs,1,F,Female,1,Southampton,3,3rd,18,1,Yes
+16,Aldworth,Mr Augustus Henry,Mr,0,M,Male,1,Southampton,2,2nd,34,0,No
+17,Alexander,Mr William Albert,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+18,Alhomäki,Mr Ilmari Rudolf,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+19,Ali,Mr William,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+20,Ali,Mr Ahmed,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+21,Allen,Mr William Henry,Mr,0,M,Male,1,Southampton,3,3rd,38,0,No
+22,Allen,Miss Elisabeth Walton,Miss,1,F,Female,1,Southampton,1,1st,29,1,Yes
+23,Allison,Master Hudson Trevor,Master,0,M,Male,1,Southampton,1,1st,0,1,Yes
+24,Allison,Mr Hudson Joshua Creighton,Mr,0,M,Male,1,Southampton,1,1st,30,0,No
+25,Allison,Mrs Bessie Waldo,Mrs,1,F,Female,1,Southampton,1,1st,25,0,No
+26,Allison,Miss Helen Loraine,Miss,1,F,Female,1,Southampton,1,1st,2,0,No
+27,Allum,Mr Owen George,Mr,0,M,Male,1,Southampton,3,3rd,15,0,No
+28,Al-Munà,Mr Far id Husayn Qasim,Mr,0,M,Male,2,Cherbourg,3,3rd,18,0,No
+29,Andersen,Mr Albert Karvin,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+30,Andersen-Jensen,Miss Carla Christine Nielsine,Miss,1,F,Female,1,Southampton,3,3rd,19,1,Yes
+31,Anderson,Mr Harry,Mr,0,M,Male,1,Southampton,1,1st,47,1,Yes
+32,Andersson,Mr Anders Johan,Mr,0,M,Male,1,Southampton,3,3rd,39,0,No
+33,Andersson,Mrs Alfrida Konstantia Brogren,Mrs,1,F,Female,1,Southampton,3,3rd,39,0,No
+34,Andersson,Miss Ida Augusta Margareta,Miss,1,F,Female,1,Southampton,3,3rd,38,0,No
+35,Andersson,Mr Johan Samuel,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+36,Andersson,Miss Erna Alexandra,Miss,1,F,Female,1,Southampton,3,3rd,17,1,Yes
+37,Andersson,Miss Sigrid Elisabeth,Miss,1,F,Female,1,Southampton,3,3rd,11,0,No
+38,Andersson,Miss Ingeborg Constanzia,Miss,1,F,Female,1,Southampton,3,3rd,9,0,No
+39,Andersson,Miss Ebba Iris Alfrida,Miss,1,F,Female,1,Southampton,3,3rd,6,0,No
+40,Andersson,Master Sigvard Harald Elias,Master,0,M,Male,1,Southampton,3,3rd,4,0,No
+41,Andersson,Miss Ellis Anna Maria,Miss,1,F,Female,1,Southampton,3,3rd,2,0,No
+42,Andreasson,Mr Pål Edvin,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+43,Andrew,Mr Frank Thomas,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+44,Andrew,Mr Edgar Samuel,Mr,0,M,Male,1,Southampton,2,2nd,17,0,No
+45,Andrews,Miss Kornelia Theodosia,Miss,1,F,Female,2,Cherbourg,1,1st,62,1,Yes
+46,Andrews,Mr Thomas,Mr,0,M,Male,0,Belfast,1,1st,39,0,No
+47,Angheloff,Mr Minko,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+48,Angle,Mrs Florence Agnes,Mrs,1,F,Female,1,Southampton,2,2nd,36,1,Yes
+49,Angle,Mr William,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+50,Appleton,Mrs Charlotte,Mrs,1,F,Female,1,Southampton,1,1st,53,1,Yes
+51,Arnold-Franchi,Mr Josef,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+52,Arnold-Franchi,Mrs Josefine,Mrs,1,F,Female,1,Southampton,3,3rd,18,0,No
+53,Aronsson,Mr Ernst Axel Algot,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+54,Artagaveytia,Mr Ramon,Mr,0,M,Male,2,Cherbourg,1,1st,71,0,No
+55,Ashby,Mr John,Mr,0,M,Male,1,Southampton,2,2nd,57,0,No
+56,Asim,Mr Adola,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+57,Asplund,Mr Carl Oscar Vilhelm Gustafsson,Mr,0,M,Male,1,Southampton,3,3rd,40,0,No
+58,Asplund,Mrs Selma Augusta Emilia,Mrs,1,F,Female,1,Southampton,3,3rd,38,1,Yes
+59,Asplund,Mr Johan Charles,Mr,0,M,Male,1,Southampton,3,3rd,23,1,Yes
+60,Asplund,Master Filip Oscar,Master,0,M,Male,1,Southampton,3,3rd,13,0,No
+61,Asplund,Master Clarence Gustaf Hugo,Master,0,M,Male,1,Southampton,3,3rd,9,0,No
+62,Asplund,Master Carl Edgar,Master,0,M,Male,1,Southampton,3,3rd,5,0,No
+63,Asplund,Miss Lillian Gertrud,Miss,1,F,Female,1,Southampton,3,3rd,5,1,Yes
+64,Asplund,Master Edvin Rojj Felix,Master,0,M,Male,1,Southampton,3,3rd,3,1,Yes
+65,Assaf,Mrs Mariana,Mrs,1,F,Female,2,Cherbourg,3,3rd,45,1,Yes
+66,Assam,Mr Ali,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+67,Astor,Colonel John Jacob,Colonel,0,M,Male,2,Cherbourg,1,1st,47,0,No
+68,Astor,Mrs Madeleine Talmage,Mrs,1,F,Female,2,Cherbourg,1,1st,18,1,Yes
+69,Attala,Mr Sleiman,Mr,0,M,Male,2,Cherbourg,3,3rd,27,0,No
+70,Attalah,Miss Malake,Miss,1,F,Female,2,Cherbourg,3,3rd,17,0,No
+71,Aubart,Mme. Léontine Pauline “Ninette”,Mme.,1,F,Female,2,Cherbourg,1,1st,24,1,Yes
+72,Augustsson,Mr Albert,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+73,Ayoub Daher,Miss Banoura,Miss,1,F,Female,2,Cherbourg,3,3rd,15,1,Yes
+74,Backström,Mrs Maria Mathilda,Mrs,1,F,Female,1,Southampton,3,3rd,33,0,No
+75,Backström,Mr Karl Alfred,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+76,Baclini,Miss Helene Barbara,Miss,1,F,Female,2,Cherbourg,3,3rd,0,1,Yes
+77,Baclini,Mrs Latifa,Mrs,1,F,Female,2,Cherbourg,3,3rd,24,1,Yes
+78,Baclini,Miss Marie Catherine,Miss,1,F,Female,2,Cherbourg,3,3rd,5,1,Yes
+79,Baclini,Miss Eugenie,Miss,1,F,Female,2,Cherbourg,3,3rd,3,1,Yes
+80,Badman,Miss Emily Louisa,Miss,1,F,Female,1,Southampton,3,3rd,18,1,Yes
+81,Badt,Mr Mohamed,Mr,0,M,Male,2,Cherbourg,3,3rd,40,0,No
+82,Bailey,Mr Percy,Mr,0,M,Male,1,Southampton,2,2nd,15,0,No
+83,Baimbrigge,Mr Charles Robert,Mr,0,M,Male,1,Southampton,2,2nd,22,0,No
+84,Balkic,Mr Cerin,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+85,Balls,Mrs Ada E.,Mrs,1,F,Female,1,Southampton,2,2nd,36,1,Yes
+86,Banfield,Mr Frederick James,Mr,0,M,Male,1,Southampton,2,2nd,28,0,No
+87,Banski,Mrs Mara,Mrs,1,F,Female,1,Southampton,3,3rd,31,0,No
+88,Barbara,Mrs Catherine David,Mrs,1,F,Female,2,Cherbourg,3,3rd,45,0,No
+89,Barbara,Miss Saiide,Miss,1,F,Female,2,Cherbourg,3,3rd,18,0,No
+90,Barber,Miss Ellen Mary (Maid to Mrs Tyrell William Cavendish),Miss,1,F,Female,1,Southampton,1,1st,26,1,Yes
+91,Barkworth,Mr Algernon Henry,Mr,0,M,Male,1,Southampton,1,1st,47,1,Yes
+92,Barry,Miss Julia,Miss,1,F,Female,3,Queenstown,3,3rd,26,0,No
+93,Barton,Mr David John,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+94,Bassani,Mrs Albina (Maid to Mrs William Robert Bucknell),Mrs,1,F,Female,2,Cherbourg,1,1st,32,1,Yes
+95,Bateman,Reverend Robert James,Reverend,0,M,Male,1,Southampton,2,2nd,51,0,No
+96,Batoshev,Mr Hristo Lalev,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+97,Baumann,Mr John D.,Mr,0,M,Male,2,Cherbourg,1,1st,60,0,No
+98,Baxter,Mrs Hélène,Mrs,1,F,Female,2,Cherbourg,1,1st,50,1,Yes
+99,Baxter,Mr Quigg Edmond,Mr,0,M,Male,2,Cherbourg,1,1st,24,0,No
+100,Beane,Mr Edward,Mr,0,M,Male,1,Southampton,2,2nd,32,1,Yes
+101,Beane,Mrs Ethel,Mrs,1,F,Female,1,Southampton,2,2nd,22,1,Yes
+102,Beattie,Mr Thomson,Mr,0,M,Male,1,Southampton,1,1st,36,0,No
+103,Beauchamp,Mr Henry James,Mr,0,M,Male,1,Southampton,2,2nd,28,0,No
+104,Beavan,Mr William Thomas,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+105,Becker,Mrs Nellie E.,Mrs,1,F,Female,1,Southampton,2,2nd,35,1,Yes
+106,Becker,Miss Ruth Elizabeth,Miss,1,F,Female,1,Southampton,2,2nd,12,1,Yes
+107,Becker,Miss Marion Louise,Miss,1,F,Female,1,Southampton,2,2nd,4,1,Yes
+108,Becker,Master Richard F.,Master,0,M,Male,1,Southampton,2,2nd,1,1,Yes
+109,Beckwith,Mrs Sallie,Mrs,1,F,Female,1,Southampton,1,1st,46,1,Yes
+110,Beckwith,Mr Richard Leonard,Mr,0,M,Male,1,Southampton,1,1st,37,1,Yes
+111,Beesley,Mr Lawrence,Mr,0,M,Male,1,Southampton,2,2nd,34,1,Yes
+112,Behr,Mr Karl Howell,Mr,0,M,Male,2,Cherbourg,1,1st,26,1,Yes
+113,Bengtsson,Mr Johan Viktor,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+114,Bentham,Miss Lillian W.,Miss,1,F,Female,1,Southampton,2,2nd,19,1,Yes
+115,Berglund,Mr Karl Ivar Sven,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+116,Berriman,Mr William John,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+117,Bessette,Miss Nellie Mayo (Maid to Mrs Ella Holmes White),Miss,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+118,Bidois,Miss Rosalie (Maid to Mrs John Jacob Astor),Miss,1,F,Female,2,Cherbourg,1,1st,46,1,Yes
+119,Bing,Mr Lee,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+120,Bird,Miss Ellen (Maid to Mr & Mrs Isodor Straus),Miss,1,F,Female,1,Southampton,1,1st,31,1,Yes
+121,Birkeland,Mr Hans Martin Monsen,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+122,Birnbaum,Mr Jakob,Mr,0,M,Male,2,Cherbourg,1,1st,24,0,No
+123,Bishop,Mr Dickinson H.,Mr,0,M,Male,2,Cherbourg,1,1st,25,1,Yes
+124,Bishop,Mrs Helen,Mrs,1,F,Female,2,Cherbourg,1,1st,19,1,Yes
+125,Björklund,Mr Ernst Herbert,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+126,Björnström-Steffansson,Mr Mauritz Hokan,Mr,0,M,Male,1,Southampton,1,1st,28,1,Yes
+127,Blackwell,Mr Stephen Weart,Mr,0,M,Male,1,Southampton,1,1st,45,0,No
+128,Blank,Mr Henry,Mr,0,M,Male,2,Cherbourg,1,1st,39,1,Yes
+129,Bonnell,Miss Elizabeth,Miss,1,F,Female,1,Southampton,1,1st,61,1,Yes
+130,Bonnell,Miss Caroline,Miss,1,F,Female,1,Southampton,1,1st,30,1,Yes
+131,Borebank,Mr John James,Mr,0,M,Male,1,Southampton,1,1st,42,0,No
+132,Bostandyeff,Mr Guentcho,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+133,Botsford,Mr William Hull,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+134,Bourke,Mr John,Mr,0,M,Male,3,Queenstown,3,3rd,42,0,No
+135,Bourke,Miss Mary,Miss,1,F,Female,3,Queenstown,3,3rd,40,0,No
+136,Bourke,Mrs Catherine,Mrs,1,F,Female,3,Queenstown,3,3rd,32,0,No
+137,Bowen,Miss Grace Scott (Maid to Mr & Mrs Arthur Ryerson),Miss,1,F,Female,2,Cherbourg,1,1st,45,1,Yes
+138,Bowen,Mr David John “Dai”,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+139,Bowenur,Mr Solomon,Mr,0,M,Male,1,Southampton,2,2nd,42,0,No
+140,Bowerman,Miss Elsie Edith,Miss,1,F,Female,1,Southampton,1,1st,22,1,Yes
+141,Bracken,Mr James Hollen,Mr,0,M,Male,1,Southampton,2,2nd,29,0,No
+142,Bradley,Miss Bridget Delia,Miss,1,F,Female,3,Queenstown,3,3rd,22,1,Yes
+143,Brady,Mr John Bertram,Mr,0,M,Male,1,Southampton,1,1st,41,0,No
+144,Braf,Miss Elin Ester Maria,Miss,1,F,Female,1,Southampton,3,3rd,20,0,No
+145,Brailey,Mr William Theodore Ronald,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+146,Brandeis,Mr Emil Franklin,Mr,0,M,Male,2,Cherbourg,1,1st,48,0,No
+147,Braund,Mr Lewis Richard,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+148,Braund,Mr Owen Harris,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+149,Brereton,Mr George Andrew,Mr,0,M,Male,1,Southampton,1,1st,37,1,Yes
+150,Brewe,Dr Arthur Jackson,Dr,0,M,Male,2,Cherbourg,1,1st,45,0,No
+151,Bricoux,Mr Roger Marie,Mr,0,M,Male,1,Southampton,2,2nd,20,0,No
+152,Brito,Mr José Joaquim de,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+153,Brobäck,Mr Karl Rudolf,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+154,Brocklebank,Mr William Alfred,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+155,Brown,Mr Thomas William Solomon,Mr,0,M,Male,1,Southampton,2,2nd,60,0,No
+156,Brown,Mrs Caroline Lane,Mrs,1,F,Female,1,Southampton,1,1st,59,1,Yes
+157,Brown,Mrs Margaret,Mrs,1,F,Female,2,Cherbourg,1,1st,44,1,Yes
+158,Brown,Mrs Elizabeth Catherine,Mrs,1,F,Female,1,Southampton,2,2nd,40,1,Yes
+159,Brown,Miss Amelia Mary,Miss,1,F,Female,1,Southampton,2,2nd,18,1,Yes
+160,Brown,Miss Edith Eileen,Miss,1,F,Female,1,Southampton,2,2nd,15,1,Yes
+161,Bryhl,Mr Kurt Arnold Gottfrid,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+162,Bryhl,Miss Dagmar Jenny Ingeborg,Miss,1,F,Female,1,Southampton,2,2nd,20,1,Yes
+163,Buckley,Miss Katherine,Miss,1,F,Female,3,Queenstown,3,3rd,22,0,No
+164,Buckley,Mr Daniel,Mr,0,M,Male,3,Queenstown,3,3rd,21,1,Yes
+165,Bucknell,Mrs Emma Eliza,Mrs,1,F,Female,2,Cherbourg,1,1st,58,1,Yes
+166,Bulus,Mrs Sultanah,Mrs,1,F,Female,2,Cherbourg,3,3rd,40,0,No
+167,Bulus,Master Akar,Master,0,M,Male,2,Cherbourg,3,3rd,9,0,No
+168,Bulus,Miss Nur-al-Ayn,Miss,1,F,Female,2,Cherbourg,3,3rd,7,0,No
+169,Burke,Mr Jeremiah,Mr,0,M,Male,3,Queenstown,3,3rd,19,0,No
+170,Burns,Miss Elizabeth Margaret (Nanny to Master Robert Douglas Spedden),Miss,1,F,Female,2,Cherbourg,1,1st,41,1,Yes
+171,Burns,Miss Mary Delia,Miss,1,F,Female,3,Queenstown,3,3rd,17,0,No
+172,Buss,Miss Kate,Miss,1,F,Female,1,Southampton,2,2nd,36,1,Yes
+173,Butler,Mr Reginald Fenton,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+174,Butrus-Ka’W i,Mr Tannus,Mr,0,M,Male,2,Cherbourg,3,3rd,21,0,No
+175,Butt,Major Archibald Willingham,Major,0,M,Male,1,Southampton,1,1st,46,0,No
+176,Byles,Father Thomas Roussel Davids,Father,0,M,Male,1,Southampton,2,2nd,42,0,No
+177,Byström,Mrs Karolina,Mrs,1,F,Female,1,Southampton,2,2nd,40,0,No
+178,Cacic,Mr Luka,Mr,0,M,Male,1,Southampton,3,3rd,38,0,No
+179,Cacic,Miss Marija,Miss,1,F,Female,1,Southampton,3,3rd,30,0,No
+180,Cacic,Miss Manda,Miss,1,F,Female,1,Southampton,3,3rd,21,0,No
+181,Cacic,Mr Jego Grga,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+182,Cairns,Mr Alexander Milne (Manservant to Mr William Ernest Carter),Mr,0,M,Male,1,Southampton,1,1st,28,0,No
+183,Calderhead,Mr Edward Pennington,Mr,0,M,Male,1,Southampton,1,1st,42,1,Yes
+184,Caldwell,Master Alden Gates,Master,0,M,Male,1,Southampton,2,2nd,0,1,Yes
+185,Caldwell,Mrs Sylvia Mae,Mrs,1,F,Female,1,Southampton,2,2nd,28,1,Yes
+186,Caldwell,Mr Albert Francis,Mr,0,M,Male,1,Southampton,2,2nd,26,1,Yes
+187,Calic,Mr Petar,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+188,Calic,Mr Jovo,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+189,Cameron,Miss Clear Annie,Miss,1,F,Female,1,Southampton,2,2nd,35,1,Yes
+190,Campbell,Mr William Henry,Mr,0,M,Male,0,Belfast,2,2nd,21,0,No
+191,Canavan,Miss Mary,Miss,1,F,Female,3,Queenstown,3,3rd,22,0,No
+192,Canavan,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,21,0,No
+193,Candee,Mrs Helen Churchill,Mrs,1,F,Female,2,Cherbourg,1,1st,52,1,Yes
+194,Cann,Mr Ernest,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+195,Caram,Mr Joseph,Mr,0,M,Male,2,Cherbourg,3,3rd,28,0,No
+196,Caram,Mrs Maria Elias,Mrs,1,F,Female,2,Cherbourg,3,3rd,18,0,No
+197,Carbines,Mr William,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+198,Cardeza,Mrs Charlotte Wardle,Mrs,1,F,Female,2,Cherbourg,1,1st,58,1,Yes
+199,Cardeza,Mr Thomas Drake Martinez,Mr,0,M,Male,2,Cherbourg,1,1st,36,1,Yes
+200,Carlsson,Mr Frans Olof,Mr,0,M,Male,1,Southampton,1,1st,33,0,No
+201,Carlsson,Mr August Sigfrid,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+202,Carlsson,Mr Carl Robert,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+203,Carr,Miss Jane,Miss,1,F,Female,3,Queenstown,3,3rd,45,0,No
+204,Carrau,Mr Francisco Mauro Severiano,Mr,0,M,Male,1,Southampton,1,1st,27,0,No
+205,Carraú-Esteves,Mr José Pedro,Mr,0,M,Male,1,Southampton,1,1st,17,0,No
+206,Carter,Father Ernest Courtenay,Father,0,M,Male,1,Southampton,2,2nd,54,0,No
+207,Carter,Mrs Lilian,Mrs,1,F,Female,1,Southampton,2,2nd,45,0,No
+208,Carter,Mr William Ernest,Mr,0,M,Male,1,Southampton,1,1st,36,1,Yes
+209,Carter,Mrs Lucile,Mrs,1,F,Female,1,Southampton,1,1st,36,1,Yes
+210,Carter,Miss Lucile Polk,Miss,1,F,Female,1,Southampton,1,1st,13,1,Yes
+211,Carter,Master William Thornton II,Master,0,M,Male,1,Southampton,1,1st,11,1,Yes
+212,Carver,Mr Alfred John,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+213,Case,Mr Howard Brown,Mr,0,M,Male,1,Southampton,1,1st,49,0,No
+214,Cassebeer,Mrs Eleanor Genevieve,Mrs,1,F,Female,2,Cherbourg,1,1st,36,1,Yes
+215,Cavendish,Mr Tyrell William,Mr,0,M,Male,1,Southampton,1,1st,36,0,No
+216,Cavendish,Mrs Julia Florence,Mrs,1,F,Female,1,Southampton,1,1st,25,1,Yes
+217,Celotti,Mr Francesco,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+218,Chaffee,Mrs Carrie Constance,Mrs,1,F,Female,1,Southampton,1,1st,47,1,Yes
+219,Chaffee,Mr Herbert Fuller,Mr,0,M,Male,1,Southampton,1,1st,46,0,No
+220,Chambers,Mrs Bertha,Mrs,1,F,Female,1,Southampton,1,1st,32,1,Yes
+221,Chambers,Mr Norman Campbell,Mr,0,M,Male,1,Southampton,1,1st,27,1,Yes
+222,Chapman,Mr Charles Henry,Mr,0,M,Male,1,Southampton,2,2nd,52,0,No
+223,Chapman,Mr John Henry,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+224,Chapman,Mrs Sara Elizabeth,Mrs,1,F,Female,1,Southampton,2,2nd,28,0,No
+225,Charters,Mr David,Mr,0,M,Male,3,Queenstown,3,3rd,20,0,No
+226,Chaudanson,Miss Victorine (Maid to Mrs Emily Ryerson),Miss,1,F,Female,2,Cherbourg,1,1st,36,1,Yes
+227,Cherry,Miss Gladys,Miss,1,F,Female,1,Southampton,1,1st,30,1,Yes
+228,Chevré,Mr Paul Romaine Marie Léonce,Mr,0,M,Male,2,Cherbourg,1,1st,45,1,Yes
+229,Chibnall,Mrs Edith Martha Bowerman,Mrs,1,F,Female,1,Southampton,1,1st,48,1,Yes
+230,Chip,Mr Chang,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+231,Chisholm,Mr Roderick Robert Crispin,Mr,0,M,Male,0,Belfast,1,1st,43,0,No
+232,Christmann,Mr Emil,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+233,Christy,Mrs Alice Frances,Mrs,1,F,Female,1,Southampton,2,2nd,45,1,Yes
+234,Christy,Miss Rachel Juli Cohen,Miss,1,F,Female,1,Southampton,2,2nd,25,1,Yes
+235,Chronopoulos,Mr Apostolos M.,Mr,0,M,Male,2,Cherbourg,3,3rd,26,0,No
+236,Chronopoulos,Mr Dimitrios M.,Mr,0,M,Male,2,Cherbourg,3,3rd,21,0,No
+237,Clark,Mr Walter Miller,Mr,0,M,Male,2,Cherbourg,1,1st,27,0,No
+238,Clark,Mrs Virginia Estelle,Mrs,1,F,Female,2,Cherbourg,1,1st,26,1,Yes
+239,Clarke,Mr Charles Valentine,Mr,0,M,Male,1,Southampton,2,2nd,29,0,No
+240,Clarke,Mr John Frederick Preston,Mr,0,M,Male,1,Southampton,2,2nd,28,0,No
+241,Clarke,Mrs Ada Maria,Mrs,1,F,Female,1,Southampton,2,2nd,28,1,Yes
+242,Cleaver,Miss Alice Catherine (Nanny to Master Hudson Trevor Allison),Miss,1,F,Female,1,Southampton,1,1st,22,1,Yes
+243,Clifford,Mr George Quincy,Mr,0,M,Male,1,Southampton,1,1st,40,0,No
+244,Coelho,Mr Domingos Fernandeo,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+245,Cohen,Mr Gurshon,Mr,0,M,Male,1,Southampton,3,3rd,18,1,Yes
+246,Colbert,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,24,0,No
+247,Coleff,Mr Satio,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+248,Coleridge,Mr Reginald Charles,Mr,0,M,Male,1,Southampton,2,2nd,29,0,No
+249,Collander,Mr Erik Gustaf,Mr,0,M,Male,1,Southampton,2,2nd,27,0,No
+250,Collett,Mr Sidney Clarence Stuart,Mr,0,M,Male,1,Southampton,2,2nd,25,1,Yes
+251,Colley,Mr Edward Pomeroy,Mr,0,M,Male,1,Southampton,1,1st,37,0,No
+252,Collyer,Mrs Charlotte Caroline,Mrs,1,F,Female,1,Southampton,2,2nd,31,1,Yes
+253,Collyer,Mr Harvey,Mr,0,M,Male,1,Southampton,2,2nd,31,0,No
+254,Collyer,Miss Marjorie Lottie,Miss,1,F,Female,1,Southampton,2,2nd,8,1,Yes
+255,Coltcheff,Mr Peju,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+256,Compton,Mrs Mary Eliza,Mrs,1,F,Female,2,Cherbourg,1,1st,64,1,Yes
+257,Compton,Miss Sara Rebecca,Miss,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+258,Compton,Mr Alexander Taylor Jr,Mr,0,M,Male,2,Cherbourg,1,1st,37,0,No
+259,Conlin,Mr Thomas Henry,Mr,0,M,Male,3,Queenstown,3,3rd,31,0,No
+260,Connaughton,Mr Michael,Mr,0,M,Male,3,Queenstown,3,3rd,40,0,No
+261,Connolly,Miss Kate,Miss,1,F,Female,3,Queenstown,3,3rd,41,0,No
+262,Connolly,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,23,1,Yes
+263,Connors,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,66,0,No
+264,Cook,Mr Jacob,Mr,0,M,Male,1,Southampton,3,3rd,43,0,No
+265,Cook,Mrs Selena,Mrs,1,F,Female,1,Southampton,2,2nd,22,1,Yes
+266,Cor,Mr Bartol,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+267,Cor,Mr Ivan,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+268,Cor,Mr Liudevit,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+269,Corbett,Mrs Irene,Mrs,1,F,Female,1,Southampton,2,2nd,30,0,No
+270,Corey,Mrs Mary Emma,Mrs,1,F,Female,1,Southampton,2,2nd,30,0,No
+271,Cornblatt,Mr Harris,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+272,Cornell,Mrs Malvina Helen,Mrs,1,F,Female,1,Southampton,1,1st,55,1,Yes
+273,Corr,Miss Ellen,Miss,1,F,Female,3,Queenstown,3,3rd,16,1,Yes
+274,Cotterill,Mr Henry,Mr,0,M,Male,1,Southampton,2,2nd,20,0,No
+275,Coutts,Mrs Winnie,Mrs,1,F,Female,1,Southampton,3,3rd,36,1,Yes
+276,Coutts,Master William Loch,Master,0,M,Male,1,Southampton,3,3rd,9,1,Yes
+277,Coutts,Master Neville Leslie,Master,0,M,Male,1,Southampton,3,3rd,3,1,Yes
+278,Coxon,Mr Daniel,Mr,0,M,Male,1,Southampton,3,3rd,59,0,No
+279,Crafton,Mr John Bertram,Mr,0,M,Male,1,Southampton,1,1st,59,0,No
+280,Crease,Mr Ernest James,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+281,Cribb,Mr John Hatfield,Mr,0,M,Male,1,Southampton,3,3rd,44,0,No
+282,Cribb,Miss Laura Mae,Miss,1,F,Female,1,Southampton,3,3rd,16,1,Yes
+283,Crosby,Captain Edward Gifford,Captain,0,M,Male,1,Southampton,1,1st,70,0,No
+284,Crosby,Mrs Catherine Elizabeth,Mrs,1,F,Female,1,Southampton,1,1st,64,1,Yes
+285,Crosby,Miss Harriette Rebecca,Miss,1,F,Female,1,Southampton,1,1st,39,1,Yes
+286,Culumovic,Mr Jeso,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+287,Cumings,Mr John Bradley,Mr,0,M,Male,2,Cherbourg,1,1st,39,0,No
+288,Cumings,Mrs Florence Briggs,Mrs,1,F,Female,2,Cherbourg,1,1st,35,1,Yes
+289,Cunningham,Mr Alfred Fleming,Mr,0,M,Male,0,Belfast,2,2nd,21,0,No
+290,Daher,Mr Tannous,Mr,0,M,Male,2,Cherbourg,3,3rd,28,0,No
+291,Dahl,Mr Charles Edward,Mr,0,M,Male,1,Southampton,3,3rd,45,1,Yes
+292,Dahlberg,Miss Gerda Ulrika,Miss,1,F,Female,1,Southampton,3,3rd,22,0,No
+293,Dakic,Mr Branko,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+294,Daly,Mr Peter Dennis,Mr,0,M,Male,1,Southampton,1,1st,51,0,No
+295,Daly,Miss Margaret Marcella,Miss,1,F,Female,3,Queenstown,3,3rd,33,1,Yes
+296,Daly,Mr Eugene Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,29,1,Yes
+297,Danbom,Master Gilbert Sigvard Emanuel,Master,0,M,Male,1,Southampton,3,3rd,0,0,No
+298,Danbom,Mr Ernst Gilbert,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+299,Danbom,Mrs Anna Sigrid Maria,Mrs,1,F,Female,1,Southampton,3,3rd,28,0,No
+300,Daniel,Mr Robert Williams,Mr,0,M,Male,1,Southampton,1,1st,27,1,Yes
+301,Daniels,Miss Sarah Rebecca (Maid to Mr & Mrs Allison),Miss,1,F,Female,1,Southampton,1,1st,33,1,Yes
+302,Danoff,Mr Yoto,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+303,Davidson,Mr Thornton,Mr,0,M,Male,2,Cherbourg,1,1st,31,0,No
+304,Davidson,Mrs Orian,Mrs,1,F,Female,2,Cherbourg,1,1st,27,1,Yes
+305,Davies,Mrs Agnes,Mrs,1,F,Female,1,Southampton,2,2nd,48,1,Yes
+306,Davies,Mr Alfred James,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+307,Davies,Mr Evan,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+308,Davies,Mr John,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+309,Davies,Mr Charles Henry,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+310,Davies,Mr Joseph,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+311,Davies,Master John Morgan Jr,Master,0,M,Male,1,Southampton,2,2nd,8,1,Yes
+312,Davis,Miss Mary Ann Charlotte,Miss,1,F,Female,1,Southampton,2,2nd,28,1,Yes
+313,Davison,Mrs Mary Elizabeth,Mrs,1,F,Female,1,Southampton,3,3rd,34,1,Yes
+314,Davison,Mr Thomas Henry,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+315,De Messemaeker,Mr Guillaume Joseph,Mr,0,M,Male,1,Southampton,3,3rd,36,1,Yes
+316,De Messemaeker,Mrs Anna,Mrs,1,F,Female,1,Southampton,3,3rd,36,1,Yes
+317,De Mulder,Mr Theodoor,Mr,0,M,Male,1,Southampton,3,3rd,30,1,Yes
+318,De Pelsmaeker,Mr Alfons,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+319,Deacon,Mr Percy William,Mr,0,M,Male,1,Southampton,2,2nd,18,0,No
+320,Dean,Miss Elizabeth Gladys “Millvina”,Miss,1,F,Female,1,Southampton,3,3rd,0,1,Yes
+321,Dean,Mrs Eva Georgetta,Mrs,1,F,Female,1,Southampton,3,3rd,32,1,Yes
+322,Dean,Mr Bertram Frank,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+323,Dean,Master Bertram Vere,Master,0,M,Male,1,Southampton,3,3rd,1,1,Yes
+324,Del Carlo,Mr Sebastiano,Mr,0,M,Male,2,Cherbourg,2,2nd,29,0,No
+325,Del Carlo,Mrs Argene,Mrs,1,F,Female,2,Cherbourg,2,2nd,24,1,Yes
+326,Delalic,Mr Redjo,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+327,Denbuoy,Mr Albert Joseph,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+328,Denkoff,Mr Mitto,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+329,Dennis,Mr William,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+330,Dennis,Mr Samuel,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+331,Devaney,Miss Margaret Delia,Miss,1,F,Female,3,Queenstown,3,3rd,19,1,Yes
+332,Dibden,Mr William,Mr,0,M,Male,1,Southampton,2,2nd,18,0,No
+333,Dick,Mr Albert Adrian,Mr,0,M,Male,1,Southampton,1,1st,31,1,Yes
+334,Dick,Mrs Vera,Mrs,1,F,Female,1,Southampton,1,1st,17,1,Yes
+335,Dika,Mr Mirko,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+336,Dimic,Mr Jovan,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+337,Dintcheff,Mr Valtcho,Mr,0,M,Male,1,Southampton,3,3rd,43,0,No
+338,Dodge,Dr Washington,Dr,0,M,Male,1,Southampton,1,1st,52,1,Yes
+339,Dodge,Mrs Ruth,Mrs,1,F,Female,1,Southampton,1,1st,34,1,Yes
+340,Dodge,Master Washington,Master,0,M,Male,1,Southampton,1,1st,4,1,Yes
+341,Doling,Mrs Ada Julia Elizabeth,Mrs,1,F,Female,1,Southampton,2,2nd,34,0,No
+342,Doling,Miss Elsie,Miss,1,F,Female,1,Southampton,2,2nd,18,0,No
+343,Donohoe,Miss Bridget,Miss,1,F,Female,3,Queenstown,3,3rd,21,0,No
+344,Dooly,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,38,0,No
+345,Dorking,Mr Edward Arthur,Mr,0,M,Male,1,Southampton,3,3rd,18,1,Yes
+346,Dougherty,Mr William John,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+347,Douglas,Mr Walter Donald,Mr,0,M,Male,2,Cherbourg,1,1st,50,0,No
+348,Douglas,Mrs Mahala,Mrs,1,F,Female,2,Cherbourg,1,1st,48,1,Yes
+349,Douglas,Mrs Mary Hélène,Mrs,1,F,Female,2,Cherbourg,1,1st,27,1,Yes
+350,Douton,Mr William Joseph,Mr,0,M,Male,1,Southampton,2,2nd,55,0,No
+351,Dowdell,Miss Elizabeth,Miss,1,F,Female,1,Southampton,3,3rd,31,1,Yes
+352,Doyle,Miss Elizabeth,Miss,1,F,Female,3,Queenstown,3,3rd,28,0,No
+353,Drazenovic,Mr Jozef,Mr,0,M,Male,2,Cherbourg,3,3rd,33,0,No
+354,Drew,Mr James Vivian,Mr,0,M,Male,1,Southampton,2,2nd,42,0,No
+355,Drew,Mrs Maria Louisa Thorne,Mrs,1,F,Female,1,Southampton,2,2nd,34,1,Yes
+356,Drew,Master Marshall Brines,Master,0,M,Male,1,Southampton,2,2nd,8,1,Yes
+357,Driscoll,Miss Bridget,Miss,1,F,Female,3,Queenstown,3,3rd,27,1,Yes
+358,Dropkin,Miss Jennie,Miss,1,F,Female,1,Southampton,3,3rd,24,0,No
+359,Duff Gordon,Sir Cosmo Edmund,Sir,0,M,Male,2,Cherbourg,1,1st,49,1,Yes
+360,Duff Gordon,"Lady Lucy Christiana, Lady",Lady,1,F,Female,2,Cherbourg,1,1st,48,1,Yes
+361,Dulles,Mr William Crothers,Mr,0,M,Male,2,Cherbourg,1,1st,39,0,No
+362,Duquemin,Mr Joseph Pierre,Mr,0,M,Male,1,Southampton,3,3rd,24,1,Yes
+363,Durán I Moné,Señora Florentina,Señora,1,F,Female,2,Cherbourg,2,2nd,30,1,Yes
+364,Durán I Moné,Señora Asuncion,Señora,1,F,Female,2,Cherbourg,2,2nd,27,1,Yes
+365,Dwan,Mr Frank,Mr,0,M,Male,3,Queenstown,3,3rd,65,0,No
+366,Dyker,Mr Adolf Fredrik,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+367,Dyker,Mrs Anna Elisabeth Judith,Mrs,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+368,Earnshaw,Mrs Olive,Mrs,1,F,Female,2,Cherbourg,1,1st,23,1,Yes
+369,Edvardsson,Mr Gustaf Hjalmar,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+370,Eitemiller,Mr George Floyd,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+371,Eklund,Mr Hans Linus,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+372,Ekström,Mr Amandus,Mr,0,M,Male,1,Southampton,3,3rd,45,0,No
+373,Elias,Mr Dibo,Mr,0,M,Male,2,Cherbourg,3,3rd,29,0,No
+374,Elias,Mr Joseph jr.,Mr,0,M,Male,2,Cherbourg,3,3rd,15,0,No
+375,Elias Nasrallah,Mr Tannous,Mr,0,M,Male,2,Cherbourg,3,3rd,22,0,No
+376,Elsbury,Mr William James,Mr,0,M,Male,1,Southampton,3,3rd,48,0,No
+377,Emanuel,Miss Virginia Ethel,Miss,1,F,Female,1,Southampton,3,3rd,5,1,Yes
+378,Enander,Mr Ingvar,Mr,0,M,Male,1,Southampton,2,2nd,21,0,No
+379,Endres,Miss Caroline Louise (Nurse to Mrs Madeleine Astor),Miss,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+380,Estanislau,Mr Manuel Gonçalves,Mr,0,M,Male,1,Southampton,3,3rd,37,0,No
+381,Eustis,Miss Elizabeth Mussey,Miss,1,F,Female,2,Cherbourg,1,1st,54,1,Yes
+382,Evans,Miss Edith Corse,Miss,1,F,Female,2,Cherbourg,1,1st,36,0,No
+383,Everett,Mr Thomas James,Mr,0,M,Male,1,Southampton,3,3rd,38,0,No
+384,Fahlstrøm,Mr Arne Joma,Mr,0,M,Male,1,Southampton,2,2nd,18,0,No
+385,Fardon,Mr Charles Richard,Mr,0,M,Male,1,Southampton,3,3rd,45,0,No
+386,Farrell,Mr James,Mr,0,M,Male,3,Queenstown,3,3rd,25,0,No
+387,Farthing,Mr John (Manservant to Mr & Mrs Straus),Mr,0,M,Male,1,Southampton,1,1st,57,0,No
+388,Faunthorpe,Mr Harry Bartram,Mr,0,M,Male,1,Southampton,2,2nd,41,0,No
+389,Fillbrook,Mr Joseph Charles,Mr,0,M,Male,1,Southampton,2,2nd,18,0,No
+390,Finoli,Mr Luigi,Mr,0,M,Male,1,Southampton,3,3rd,34,1,Yes
+391,Fischer,Mr Eberhard Thelander,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+392,Flegenheim,Mrs Antoinette,Mrs,1,F,Female,2,Cherbourg,1,1st,48,1,Yes
+393,Fleming,Miss Margaret (Maid to Mr & Mrs Thayer),Miss,1,F,Female,2,Cherbourg,1,1st,42,1,Yes
+394,Fleming,Miss Honor,Miss,1,F,Female,3,Queenstown,3,3rd,22,0,No
+395,Flynn,Mr John,Mr,0,M,Male,3,Queenstown,3,3rd,42,0,No
+396,Flynn,Mr John Irwin,Mr,0,M,Male,1,Southampton,1,1st,36,1,Yes
+397,Flynn,Mr James,Mr,0,M,Male,3,Queenstown,3,3rd,28,0,No
+398,Foley,Mr William,Mr,0,M,Male,3,Queenstown,3,3rd,20,0,No
+399,Foley,Mr Joseph,Mr,0,M,Male,3,Queenstown,3,3rd,19,0,No
+400,Foo,Mr Choong,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+401,Ford,Mrs Margaret Ann Watson,Mrs,1,F,Female,1,Southampton,3,3rd,54,0,No
+402,Ford,Mr Arthur,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+403,Ford,Miss Dollina Margaret,Miss,1,F,Female,1,Southampton,3,3rd,20,0,No
+404,Ford,Mr Edward Watson,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+405,Ford,Mr William Neal Thomas,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+406,Ford,Miss Robina Maggie,Miss,1,F,Female,1,Southampton,3,3rd,7,0,No
+407,Foreman,Mr Benjamin Laventall,Mr,0,M,Male,1,Southampton,1,1st,30,0,No
+408,Fortune,Mr Mark,Mr,0,M,Male,1,Southampton,1,1st,64,0,No
+409,Fortune,Mrs Mary,Mrs,1,F,Female,1,Southampton,1,1st,60,1,Yes
+410,Fortune,Miss Ethel Flora,Miss,1,F,Female,1,Southampton,1,1st,28,1,Yes
+411,Fortune,Miss Alice Elizabeth,Miss,1,F,Female,1,Southampton,1,1st,24,1,Yes
+412,Fortune,Miss Mabel Helen,Miss,1,F,Female,1,Southampton,1,1st,23,1,Yes
+413,Fortune,Mr Charles Alexander,Mr,0,M,Male,1,Southampton,1,1st,19,0,No
+414,Fox,Mr Stanley Harrington,Mr,0,M,Male,1,Southampton,2,2nd,38,0,No
+415,Fox,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,28,0,No
+416,Francatelli,Miss Laura Mabel (Secretary to Lady Duff-Gordon),Miss,1,F,Female,2,Cherbourg,1,1st,31,1,Yes
+417,Franklin,Mr Thomas Parnham,Mr,0,M,Male,1,Southampton,1,1st,37,0,No
+418,Frauenthal,Dr Henry William,Dr,0,M,Male,1,Southampton,1,1st,49,1,Yes
+419,Frauenthal,Mr Isaac Gerald,Mr,0,M,Male,2,Cherbourg,1,1st,43,1,Yes
+420,Frauenthal,Mrs Clara,Mrs,1,F,Female,1,Southampton,1,1st,42,1,Yes
+421,Frölicher,Miss Hedwig Margaritha,Miss,1,F,Female,2,Cherbourg,1,1st,22,1,Yes
+422,Frölicher-Stehli,Mr Maximilian Josef,Mr,0,M,Male,2,Cherbourg,1,1st,60,1,Yes
+423,Frölicher-Stehli,Mrs Margaretha Emerentia,Mrs,1,F,Female,2,Cherbourg,1,1st,48,1,Yes
+424,Frost,Mr Anthony Wood,Mr,0,M,Male,0,Belfast,2,2nd,38,0,No
+425,Fry,Mr Richard (Valet to Mr Joseph Bruce Ismay),Mr,0,M,Male,1,Southampton,1,1st,39,0,No
+426,Funk,Miss Annie Clemmer,Miss,1,F,Female,1,Southampton,2,2nd,38,0,No
+427,Futrelle,Mr Jacques Heath,Mr,0,M,Male,1,Southampton,1,1st,37,0,No
+428,Futrelle,Mrs Lily May,Mrs,1,F,Female,1,Southampton,1,1st,35,1,Yes
+429,Fynney,Mr Joseph J.,Mr,0,M,Male,1,Southampton,2,2nd,35,0,No
+430,Gale,Mr Harry,Mr,0,M,Male,1,Southampton,2,2nd,38,0,No
+431,Gale,Mr Shadrach,Mr,0,M,Male,1,Southampton,2,2nd,33,0,No
+432,Gallagher,Mr Martin,Mr,0,M,Male,3,Queenstown,3,3rd,29,0,No
+433,Garfirth,Mr John,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+434,Garside,Miss Ethel,Miss,1,F,Female,1,Southampton,2,2nd,39,1,Yes
+435,Gaskell,Mr William Alfred,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+436,Gavey,Mr Laurence,Mr,0,M,Male,1,Southampton,2,2nd,26,0,No
+437,Gee,Mr Arthur H.,Mr,0,M,Male,1,Southampton,1,1st,47,0,No
+438,George/Joseph,Mrs Shawneene,Mrs,1,F,Female,2,Cherbourg,3,3rd,38,1,Yes
+439,Gerios Thamah,Mr Assaf,Mr,0,M,Male,2,Cherbourg,3,3rd,21,0,No
+440,Gheorgheff,Mr Stanio,Mr,0,M,Male,2,Cherbourg,3,3rd,25,0,No
+441,Gibson,Mrs Pauline Caroline,Mrs,1,F,Female,2,Cherbourg,1,1st,44,1,Yes
+442,Gibson,Miss Dorothy Winifred,Miss,1,F,Female,2,Cherbourg,1,1st,22,1,Yes
+443,Gieger,Miss Amalie (Maid to Mrs George Dunton Widener),Miss,1,F,Female,1,Southampton,1,1st,35,1,Yes
+444,Giglio,Mr Victor Gaitan Andrea (Valet to Mr Benjamin Guggenheim),Mr,0,M,Male,2,Cherbourg,1,1st,23,0,No
+445,Gilbert,Mr William,Mr,0,M,Male,1,Southampton,2,2nd,47,0,No
+446,Giles,Mr Ralph,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+447,Giles,Mr Edgar,Mr,0,M,Male,1,Southampton,2,2nd,21,0,No
+448,Giles,Mr Frederick Edward,Mr,0,M,Male,1,Southampton,2,2nd,20,0,No
+449,Gilinski,Mr Eliezer,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+450,Gill,Mr John,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+451,Gillespie,Mr William Henry,Mr,0,M,Male,1,Southampton,2,2nd,31,0,No
+452,Gilnagh,Miss Katherine,Miss,1,F,Female,3,Queenstown,3,3rd,17,1,Yes
+453,Givard,Mr Hans Kristensen,Mr,0,M,Male,1,Southampton,2,2nd,30,0,No
+454,Glynn,Miss Mary Agatha,Miss,1,F,Female,3,Queenstown,3,3rd,19,1,Yes
+455,Goldenberg,Mr Samuel L.,Mr,0,M,Male,2,Cherbourg,1,1st,47,1,Yes
+456,Goldenberg,Mrs Nella,Mrs,1,F,Female,2,Cherbourg,1,1st,40,1,Yes
+457,Goldschmidt,Mr George B.,Mr,0,M,Male,2,Cherbourg,1,1st,71,0,No
+458,Goldsmith,Mr Nathan,Mr,0,M,Male,1,Southampton,3,3rd,41,0,No
+459,Goldsmith,Mr Frank John,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+460,Goldsmith,Mrs Emily Alice,Mrs,1,F,Female,1,Southampton,3,3rd,31,1,Yes
+461,Goldsmith,Master Frank John William,Master,0,M,Male,1,Southampton,3,3rd,9,1,Yes
+462,Goodwin,Mrs Augusta,Mrs,1,F,Female,1,Southampton,3,3rd,43,0,No
+463,Goodwin,Mr Frederick Joseph,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+464,Goodwin,Miss Lillian Amy,Miss,1,F,Female,1,Southampton,3,3rd,16,0,No
+465,Goodwin,Mr Charles Edward,Mr,0,M,Male,1,Southampton,3,3rd,14,0,No
+466,Goodwin,Master William Frederick,Master,0,M,Male,1,Southampton,3,3rd,11,0,No
+467,Goodwin,Miss Jessie Allis,Miss,1,F,Female,1,Southampton,3,3rd,10,0,No
+468,Goodwin,Master Harold Victor,Master,0,M,Male,1,Southampton,3,3rd,9,0,No
+469,Goodwin,Master Sidney Leslie,Master,0,M,Male,1,Southampton,3,3rd,1,0,No
+470,Gracie,Colonel Archibald,Colonel,0,M,Male,1,Southampton,1,1st,53,1,Yes
+471,Graham,Mrs Edith,Mrs,1,F,Female,1,Southampton,1,1st,59,1,Yes
+472,Graham,Mr George Edward,Mr,0,M,Male,1,Southampton,1,1st,38,0,No
+473,Graham,Miss Margaret Edith,Miss,1,F,Female,1,Southampton,1,1st,19,1,Yes
+474,Green,Mr George,Mr,0,M,Male,1,Southampton,3,3rd,40,0,No
+475,Greenberg,Mr Samuel,Mr,0,M,Male,1,Southampton,2,2nd,52,0,No
+476,Greenfield,Mrs Blanche,Mrs,1,F,Female,2,Cherbourg,1,1st,45,1,Yes
+477,Greenfield,Mr William Bertram,Mr,0,M,Male,2,Cherbourg,1,1st,23,1,Yes
+478,Grønnestad,Mr Daniel Danielsen,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+479,Guest,Mr Robert,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+480,Guggenheim,Mr Benjamin,Mr,0,M,Male,2,Cherbourg,1,1st,46,0,No
+481,Gustafsson,Mr Anders Vilhelm,Mr,0,M,Male,1,Southampton,3,3rd,37,0,No
+482,Gustafsson,Mr Johan Birger,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+483,Gustafsson,Mr Karl Gideon,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+484,Gustafsson,Mr Alfred Ossian,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+485,Haas,Miss Aloisia,Miss,1,F,Female,1,Southampton,3,3rd,24,0,No
+486,Hagland,Mr Ingvald Olai Olsen,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+487,Hagland,Mr Konrad Mathias Reiersen,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+488,Hakkarainen,Mr Pekka Pietari,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+489,Hakkarainen,Mrs Elin Matilda,Mrs,1,F,Female,1,Southampton,3,3rd,24,1,Yes
+490,Hale,Mr Reginald,Mr,0,M,Male,1,Southampton,2,2nd,30,0,No
+491,Hämäläinen,Master Viljo Unto Johannes,Master,0,M,Male,1,Southampton,2,2nd,0,1,Yes
+492,Hämäläinen,Mrs Anna,Mrs,1,F,Female,1,Southampton,2,2nd,23,1,Yes
+493,Hampe,Mr Léon Jérome,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+494,Hanna,Mr Mansour,Mr,0,M,Male,2,Cherbourg,3,3rd,35,0,No
+495,Hanna,Mr Boulos,Mr,0,M,Male,2,Cherbourg,3,3rd,18,0,No
+496,Hannah,Mr Borak,Mr,0,M,Male,2,Cherbourg,3,3rd,27,1,Yes
+497,Hansen,Mrs Jennie Louise,Mrs,1,F,Female,1,Southampton,3,3rd,45,1,Yes
+498,Hansen,Mr Claus Peter,Mr,0,M,Male,1,Southampton,3,3rd,41,0,No
+499,Hansen,Mr Henrik Juul,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+500,Hansen,Mr Henry Damsgaard,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+501,Harbeck,Mr William H.,Mr,0,M,Male,1,Southampton,2,2nd,44,0,No
+502,Harder,Mr George Achilles,Mr,0,M,Male,2,Cherbourg,1,1st,25,1,Yes
+503,Harder,Mrs Dorothy,Mrs,1,F,Female,2,Cherbourg,1,1st,21,1,Yes
+504,Hargadon,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,17,0,No
+505,Harknett,Miss Alice Phoebe,Miss,1,F,Female,1,Southampton,3,3rd,21,0,No
+506,Harper,Mrs Myra Raymond,Mrs,1,F,Female,2,Cherbourg,1,1st,49,1,Yes
+507,Harper,Mr Henry Sleeper,Mr,0,M,Male,2,Cherbourg,1,1st,48,1,Yes
+508,Harper,Reverend John,Reverend,0,M,Male,1,Southampton,2,2nd,39,0,No
+509,Harper,Miss Annie Jessie,Miss,1,F,Female,1,Southampton,2,2nd,6,1,Yes
+510,Harrington,Mr Charles Henry (Manservant to Mr Clarence Bloomfield Moore),Mr,0,M,Male,1,Southampton,1,1st,37,0,No
+511,Harris,Mr George,Mr,0,M,Male,1,Southampton,2,2nd,62,1,Yes
+512,Harris,Mr Henry Birkhardt,Mr,0,M,Male,1,Southampton,1,1st,45,0,No
+513,Harris,Mr Walter,Mr,0,M,Male,1,Southampton,2,2nd,44,0,No
+514,Harris,Mrs Irene,Mrs,1,F,Female,1,Southampton,1,1st,35,1,Yes
+515,Harrison,Mr William Henry (Private secretary to Mr Joseph Bruce Ismay),Mr,0,M,Male,1,Southampton,1,1st,45,0,No
+516,Hart,Mrs Esther Ada,Mrs,1,F,Female,1,Southampton,2,2nd,48,1,Yes
+517,Hart,Mr Benjamin,Mr,0,M,Male,1,Southampton,2,2nd,47,0,No
+518,Hart,Mr Henry,Mr,0,M,Male,3,Queenstown,3,3rd,28,0,No
+519,Hart,Miss Eva Miriam,Miss,1,F,Female,1,Southampton,2,2nd,7,1,Yes
+520,Hartley,Mr Wallace Henry,Mr,0,M,Male,1,Southampton,2,2nd,33,0,No
+521,Hassab,Mr Hammad (Interpreter to Mr Henry Sleeper Harper),Mr,0,M,Male,2,Cherbourg,1,1st,27,1,Yes
+522,Hawksford,Mr Walter James,Mr,0,M,Male,1,Southampton,1,1st,45,1,Yes
+523,Hays,Mr Charles Melville,Mr,0,M,Male,1,Southampton,1,1st,55,0,No
+524,Hays,Mrs Clara Jennings,Mrs,1,F,Female,1,Southampton,1,1st,52,1,Yes
+525,Hays,Miss Margaret Bechstein,Miss,1,F,Female,2,Cherbourg,1,1st,24,1,Yes
+526,Head,Mr Christopher,Mr,0,M,Male,1,Southampton,1,1st,42,0,No
+527,Healy,Miss Honor,Miss,1,F,Female,3,Queenstown,3,3rd,29,1,Yes
+528,Hedman,Mr Oskar Arvid,Mr,0,M,Male,1,Southampton,3,3rd,27,1,Yes
+529,Hee,Mr Ling,Mr,0,M,Male,1,Southampton,3,3rd,24,1,Yes
+530,Hegarty,Miss Hanora,Miss,1,F,Female,3,Queenstown,3,3rd,18,0,No
+531,Heikkinen,Miss Laina,Miss,1,F,Female,1,Southampton,3,3rd,26,0,No
+532,Heininen,Miss Wendla Maria,Miss,1,F,Female,1,Southampton,3,3rd,23,0,No
+533,Hellström,Miss Hilda Maria,Miss,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+534,Hendekovic,Mr Ignjac,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+535,Henriksson,Miss Jenny Lovisa,Miss,1,F,Female,1,Southampton,3,3rd,28,0,No
+536,Henry,Miss Bridget Delia,Miss,1,F,Female,3,Queenstown,3,3rd,21,0,No
+537,Herman,Mr Samuel,Mr,0,M,Male,1,Southampton,2,2nd,49,0,No
+538,Herman,Mrs Jane,Mrs,1,F,Female,1,Southampton,2,2nd,48,1,Yes
+539,Herman,Miss Alice,Miss,1,F,Female,1,Southampton,2,2nd,23,1,Yes
+540,Herman,Miss Kate,Miss,1,F,Female,1,Southampton,2,2nd,23,1,Yes
+541,Hewlett,Mrs Mary Dunbar,Mrs,1,F,Female,1,Southampton,2,2nd,56,1,Yes
+542,Hickman,Mr Lewis,Mr,0,M,Male,1,Southampton,2,2nd,30,0,No
+543,Hickman,Mr Leonard Mark,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+544,Hickman,Mr Stanley George,Mr,0,M,Male,1,Southampton,2,2nd,20,0,No
+545,Hilliard,Mr Herbert Henry,Mr,0,M,Male,1,Southampton,1,1st,44,0,No
+546,Hiltunen,Miss Marta,Miss,1,F,Female,1,Southampton,2,2nd,18,0,No
+547,Hipkins,Mr William Edward,Mr,0,M,Male,1,Southampton,1,1st,55,0,No
+548,Hippach,Mrs Ida Sophia,Mrs,1,F,Female,2,Cherbourg,1,1st,44,1,Yes
+549,Hippach,Miss Jean Gertrude,Miss,1,F,Female,2,Cherbourg,1,1st,17,1,Yes
+550,Hirvonen,Mrs Helga Elisabeth Lindqvist,Mrs,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+551,Hirvonen,Miss Hildur Elisabeth,Miss,1,F,Female,1,Southampton,3,3rd,2,1,Yes
+552,Hocking,Mrs Eliza,Mrs,1,F,Female,1,Southampton,2,2nd,54,1,Yes
+553,Hocking,Mr Samuel James Metcalfe,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+554,Hocking,Mr Richard George,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+555,Hocking,Miss Ellen,Miss,1,F,Female,1,Southampton,2,2nd,20,1,Yes
+556,Hodges,Mr Henry Price,Mr,0,M,Male,1,Southampton,2,2nd,50,0,No
+557,Hogeboom,Mrs Anna Louisa,Mrs,1,F,Female,2,Cherbourg,1,1st,51,1,Yes
+558,Hold,Mr Stephen,Mr,0,M,Male,1,Southampton,2,2nd,44,0,No
+559,Hold,Mrs Annie Margaret,Mrs,1,F,Female,1,Southampton,2,2nd,29,1,Yes
+560,Holm,Mr John Fredrik Alexander,Mr,0,M,Male,1,Southampton,3,3rd,43,0,No
+561,Holthen,Mr Johan Martin,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+562,Holverson,Mr Alexander Oskar,Mr,0,M,Male,1,Southampton,1,1st,42,0,No
+563,Holverson,Mrs Mary Aline,Mrs,1,F,Female,1,Southampton,1,1st,35,1,Yes
+564,Homer,Mr Harry,Mr,0,M,Male,1,Southampton,1,1st,40,1,Yes
+565,Honkanen,Miss Eliina,Miss,1,F,Female,1,Southampton,3,3rd,27,0,No
+566,Hood,Mr Ambrose Jr,Mr,0,M,Male,1,Southampton,2,2nd,21,0,No
+567,Horgan,Mr John,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+568,Hosono,Mr Masabumi,Mr,0,M,Male,1,Southampton,2,2nd,41,1,Yes
+569,Howard,Mr Benjamin,Mr,0,M,Male,1,Southampton,2,2nd,63,0,No
+570,Howard,Mrs Ellen Truelove,Mrs,1,F,Female,1,Southampton,2,2nd,61,0,No
+571,Howard,Miss May Elizabeth,Miss,1,F,Female,1,Southampton,3,3rd,26,1,Yes
+572,Hoyt,Mr William Fisher,Mr,0,M,Male,2,Cherbourg,1,1st,42,1,Yes
+573,Hoyt,Mr Frederick Maxfield,Mr,0,M,Male,1,Southampton,1,1st,38,1,Yes
+574,Hoyt,Mrs Jane Anne,Mrs,1,F,Female,1,Southampton,1,1st,31,1,Yes
+575,Humblen,Mr Adolf Mathias Nicolai Olsen,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+576,Hume,Mr John Law,Mr,0,M,Male,1,Southampton,2,2nd,21,0,No
+577,Hunt,Mr George Henry,Mr,0,M,Male,1,Southampton,2,2nd,33,0,No
+578,Hyman,Mr Abraham Joseph,Mr,0,M,Male,1,Southampton,3,3rd,34,1,Yes
+579,Ibrahim,Mrs Safiyah,Mrs,1,F,Female,2,Cherbourg,3,3rd,18,1,Yes
+580,Ibrahim,Mr Husayn Mahmud Husayn,Mr,0,M,Male,2,Cherbourg,3,3rd,11,0,No
+581,Ibrahim Shawah,Mr Yousseff,Mr,0,M,Male,2,Cherbourg,3,3rd,33,0,No
+582,Icard,Miss Rose Amélie (Maid to Mrs George Nelson Stone),Miss,1,F,Female,1,Southampton,1,1st,39,1,Yes
+583,Ilett,Miss Bertha,Miss,1,F,Female,1,Southampton,2,2nd,17,0,No
+584,Ilieff,Mr Ylio,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+585,Ilmakangas,Miss Ida Livija,Miss,1,F,Female,1,Southampton,3,3rd,27,0,No
+586,Ilmakangas,Miss Pieta Sofia,Miss,1,F,Female,1,Southampton,3,3rd,25,0,No
+587,Isham,Miss Ann Elizabeth,Miss,1,F,Female,2,Cherbourg,1,1st,50,0,No
+588,Ismay,Mr Joseph Bruce,Mr,0,M,Male,1,Southampton,1,1st,49,1,Yes
+589,Ivanoff,Mr Kanio,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+590,Jabbur (Zabour),Miss Thamine,Miss,1,F,Female,2,Cherbourg,3,3rd,19,0,No
+591,Jabbur (Zabour),Miss Hileni,Miss,1,F,Female,2,Cherbourg,3,3rd,16,0,No
+592,Jacobsohn,Mr Sidney Samuel,Mr,0,M,Male,1,Southampton,2,2nd,42,0,No
+593,Jacobsohn,Mrs Amy Frances Christy,Mrs,1,F,Female,1,Southampton,2,2nd,24,1,Yes
+594,Jalševac,Mr Ivan,Mr,0,M,Male,2,Cherbourg,3,3rd,29,1,Yes
+595,Jansson,Mr Carl Olof,Mr,0,M,Male,1,Southampton,3,3rd,21,1,Yes
+596,Jardim,Mr José Neto,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+597,Jarvis,Mr Denzil John,Mr,0,M,Male,1,Southampton,2,2nd,47,0,No
+598,Jefferys,Mr Clifford Thomas,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+599,Jefferys,Mr Ernest Wilfred,Mr,0,M,Male,1,Southampton,2,2nd,22,0,No
+600,Jenkin,Mr Stephen Curnow,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+601,Jensen,Mr Niels Rasmus,Mr,0,M,Male,1,Southampton,3,3rd,48,0,No
+602,Jensen,Mr Hans Peder,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+603,Jensen,Mr Svend Lauritz,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+604,Jermyn,Miss Annie Jane,Miss,1,F,Female,3,Queenstown,3,3rd,26,1,Yes
+605,Jerwan,Mrs Marie Marthe,Mrs,1,F,Female,2,Cherbourg,2,2nd,23,1,Yes
+606,Johannesen,Mr Bernt Johannes,Mr,0,M,Male,1,Southampton,3,3rd,29,1,Yes
+607,Johanson,Mr Jakob Alfred,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+608,Johansson,Mr Gustaf Joel,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+609,Johansson,Mr Karl Johan,Mr,0,M,Male,1,Southampton,3,3rd,31,0,No
+610,Johansson,Mr Nils,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+611,Johansson,Mr Erik,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+612,Johansson Palmquist,Mr Oskar Leander,Mr,0,M,Male,1,Southampton,3,3rd,26,1,Yes
+613,Johnson,Mr August,Mr,0,M,Male,1,Southampton,3,3rd,49,0,No
+614,Johnson,Mr Malkolm Joackim,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+615,Johnson,Mrs Elisabeth Vilhelmina,Mrs,1,F,Female,1,Southampton,3,3rd,26,1,Yes
+616,Johnson,Mr William Cahoone Jr.,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+617,Johnson,Master Harold Theodor,Master,0,M,Male,1,Southampton,3,3rd,4,1,Yes
+618,Johnson,Miss Eleanor Ileen,Miss,1,F,Female,1,Southampton,3,3rd,1,1,Yes
+619,Johnston,Mrs Eliza,Mrs,1,F,Female,1,Southampton,3,3rd,36,0,No
+620,Johnston,Mr Andrew Emslie,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+621,Johnston,Master William Andrew,Master,0,M,Male,1,Southampton,3,3rd,8,0,No
+622,Johnston,Miss Catherine Nellie,Miss,1,F,Female,1,Southampton,3,3rd,7,0,No
+623,Jones,Mr Charles Cresson,Mr,0,M,Male,1,Southampton,1,1st,46,0,No
+624,Jonkoff,Mr Lalio,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+625,Jonsson,Mr Carl,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+626,Jönsson,Mr Nils Hilding,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+627,Joseph (Shahin),Mr Elias,Mr,0,M,Male,2,Cherbourg,3,3rd,39,0,No
+628,Julian,Mr Henry Forbes,Mr,0,M,Male,1,Southampton,1,1st,50,0,No
+629,Jussila,Mr Eiriik,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+630,Jussila,Miss Mari Aina,Miss,1,F,Female,1,Southampton,3,3rd,21,0,No
+631,Jussila,Miss Katriina,Miss,1,F,Female,1,Southampton,3,3rd,20,0,No
+632,Kallio,Mr Nikolai Erland,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+633,Kalvik,Mr Johannes Halvorsen,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+634,Kantor,Mr Sinai,Mr,0,M,Male,1,Southampton,2,2nd,34,0,No
+635,Kantor,Mrs Miriam,Mrs,1,F,Female,1,Southampton,2,2nd,24,1,Yes
+636,Karajic,Mr Milan,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+637,Karlsson,Mr Julius Konrad Eugen,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+638,Karlsson,Mr Nils August,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+639,Karlsson,Mr Einar Gervasius,Mr,0,M,Male,1,Southampton,3,3rd,21,1,Yes
+640,Karnes,Mrs Claire,Mrs,1,F,Female,1,Southampton,2,2nd,28,0,No
+641,Karun,Mr Franz,Mr,0,M,Male,2,Cherbourg,3,3rd,39,1,Yes
+642,Karun,Miss Manca,Miss,1,F,Female,2,Cherbourg,3,3rd,4,1,Yes
+643,Katavelos,Mr Vasilios G.,Mr,0,M,Male,2,Cherbourg,3,3rd,19,0,No
+644,Keane,Miss Nora Agnes,Miss,1,F,Female,3,Queenstown,2,2nd,46,1,Yes
+645,Keane,Mr Daniel,Mr,0,M,Male,3,Queenstown,2,2nd,35,0,No
+646,Keane,Mr Andrew,Mr,0,M,Male,3,Queenstown,3,3rd,23,0,No
+647,Keefe,Mr Arthur,Mr,0,M,Male,1,Southampton,3,3rd,39,0,No
+648,Keeping,Mr Edwin Herbert (Manservant to Mr & Mrs Widener),Mr,0,M,Male,1,Southampton,1,1st,33,0,No
+649,Kelly,Mrs Fanny Maria,Mrs,1,F,Female,1,Southampton,2,2nd,45,1,Yes
+650,Kelly,Mr James,Mr,0,M,Male,3,Queenstown,3,3rd,44,0,No
+651,Kelly,Miss Mary,Miss,1,F,Female,3,Queenstown,3,3rd,22,1,Yes
+652,Kelly,Miss Anna Katherine,Miss,1,F,Female,3,Queenstown,3,3rd,20,1,Yes
+653,Kelly,Mr James,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+654,Kennedy,Mr John,Mr,0,M,Male,3,Queenstown,3,3rd,24,0,No
+655,Kent,Mr Edward Austin,Mr,0,M,Male,2,Cherbourg,1,1st,58,0,No
+656,Kenyon,Mr Frederick Roland,Mr,0,M,Male,1,Southampton,1,1st,41,0,No
+657,Kenyon,Mrs Marion Estelle,Mrs,1,F,Female,1,Southampton,1,1st,40,1,Yes
+658,Khalil,Mr Betros,Mr,0,M,Male,2,Cherbourg,3,3rd,25,0,No
+659,Khalil,Mrs Zahie,Mrs,1,F,Female,2,Cherbourg,3,3rd,20,0,No
+660,Kiernan,Mr John Joseph,Mr,0,M,Male,3,Queenstown,3,3rd,25,0,No
+661,Kiernan,Mr Philip,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+662,Kilgannon,Mr Thomas,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+663,Kimball,Mrs Susan Gertrude,Mrs,1,F,Female,1,Southampton,1,1st,45,1,Yes
+664,Kimball,Mr Edwin Nelson Jr.,Mr,0,M,Male,1,Southampton,1,1st,42,1,Yes
+665,Kink,Mr Anton,Mr,0,M,Male,1,Southampton,3,3rd,29,1,Yes
+666,Kink,Mr Vincenz,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+667,Kink,Miss Maria,Miss,1,F,Female,1,Southampton,3,3rd,22,0,No
+668,Kink-Heilmann,Mrs Luise,Mrs,1,F,Female,1,Southampton,3,3rd,26,1,Yes
+669,Kink-Heilmann,Miss Luise Gretchen,Miss,1,F,Female,1,Southampton,3,3rd,4,1,Yes
+670,Kirkland,Father Charles Leonard,Father,0,M,Male,3,Queenstown,2,2nd,52,0,No
+671,Klaber,Mr Herman,Mr,0,M,Male,1,Southampton,1,1st,41,0,No
+672,Klasén,Mrs Hulda Kristina Eugenia,Mrs,1,F,Female,1,Southampton,3,3rd,36,0,No
+673,Klasén,Mr Klas Albin,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+674,Klasén,Miss Gertrud Emilia,Miss,1,F,Female,1,Southampton,3,3rd,1,0,No
+675,Knight,Mr Robert,Mr,0,M,Male,0,Belfast,2,2nd,39,0,No
+676,Kraeff,Mr Theodor,Mr,0,M,Male,2,Cherbourg,3,3rd,25,0,No
+677,Krekorian,Mr Neshan,Mr,0,M,Male,2,Cherbourg,3,3rd,25,1,Yes
+678,Kreuchen,Miss Emilie (Maid to Mrs Edward Scott Robert),Miss,1,F,Female,1,Southampton,1,1st,29,1,Yes
+679,Krins,Mr Georges Alexandre,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+680,Kutscher (Lithman),Mr Simon,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+681,Kvillner,Mr Johan Henrik Johannesson,Mr,0,M,Male,1,Southampton,2,2nd,31,0,No
+682,Lahhud Ishaq Mu’Awwad,Mr Sark is,Mr,0,M,Male,2,Cherbourg,3,3rd,30,0,No
+683,Lahtinen,Father William,Father,0,M,Male,1,Southampton,2,2nd,35,0,No
+684,Lahtinen,Mrs Anna Amelia,Mrs,1,F,Female,1,Southampton,2,2nd,34,0,No
+685,Laitinen,Miss Kristina Sofia,Miss,1,F,Female,1,Southampton,3,3rd,37,0,No
+686,Lam,Mr Ali,Mr,0,M,Male,1,Southampton,3,3rd,38,1,Yes
+687,Lam,Mr Len,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+688,Lamb,Mr John J.,Mr,0,M,Male,3,Queenstown,2,2nd,30,0,No
+689,Landergren,Miss Aurora Adelia,Miss,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+690,Lane,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,16,0,No
+691,Lang,Mr Fang,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+692,Laroche,Mr Joseph Philippe Lemercier,Mr,0,M,Male,2,Cherbourg,2,2nd,25,0,No
+693,Laroche,Mrs Juliette Marie Louise,Mrs,1,F,Female,2,Cherbourg,2,2nd,22,1,Yes
+694,Laroche,Miss Simonne Marie Anne Andrée,Miss,1,F,Female,2,Cherbourg,2,2nd,3,1,Yes
+695,Laroche,Miss Louise,Miss,1,F,Female,2,Cherbourg,2,2nd,1,1,Yes
+696,Larsson,Mr August Viktor,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+697,Larsson,Mr Bengt Edvin,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+698,Larsson,Mr Edvard,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+699,Leader,Dr Alice May,Dr,1,F,Female,1,Southampton,1,1st,49,1,Yes
+700,Lefebvre,Mrs Frances Marie,Mrs,1,F,Female,1,Southampton,3,3rd,40,0,No
+701,Lefebvre,Miss Mathilde,Miss,1,F,Female,1,Southampton,3,3rd,12,0,No
+702,Lefebvre,Miss Jeannie,Miss,1,F,Female,1,Southampton,3,3rd,8,0,No
+703,Lefebvre,Master Henry,Master,0,M,Male,1,Southampton,3,3rd,5,0,No
+704,Lefebvre,Miss Ida,Miss,1,F,Female,1,Southampton,3,3rd,3,0,No
+705,Lehmann,Miss Bertha,Miss,1,F,Female,2,Cherbourg,2,2nd,17,1,Yes
+706,Leinonen,Mr Antti Gustaf,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+707,Leitch,Miss Jessie Wills,Miss,1,F,Female,1,Southampton,2,2nd,31,1,Yes
+708,Lemore,Mrs Amelia,Mrs,1,F,Female,1,Southampton,2,2nd,46,1,Yes
+709,Lennon,Mr Denis,Mr,0,M,Male,3,Queenstown,3,3rd,20,0,No
+710,Leroy,Miss Berthe (Maid to Mrs Walter Donald Douglas),Miss,1,F,Female,2,Cherbourg,1,1st,27,1,Yes
+711,Lester,Mr James,Mr,0,M,Male,1,Southampton,3,3rd,26,0,No
+712,Lesueur,Mr Gustave J. (Manservant to Mr Thomas Cardeza),Mr,0,M,Male,2,Cherbourg,1,1st,35,1,Yes
+713,Lévy,Mr René Jacques,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+714,Lewy,Mr Ervin G.,Mr,0,M,Male,2,Cherbourg,1,1st,30,0,No
+715,Leyson,Mr Robert William Norman,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+716,Lievens,Mr René Aimé,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+717,Lindahl,Miss Agda Thorilda Viktoria,Miss,1,F,Female,1,Southampton,3,3rd,25,0,No
+718,Lindblom,Miss Augusta Charlotta,Miss,1,F,Female,1,Southampton,3,3rd,45,0,No
+719,Lindeberg-Lind,Mr Erik Gustaf,Mr,0,M,Male,1,Southampton,1,1st,42,0,No
+720,Lindell,Mr Edvard Bengtsson,Mr,0,M,Male,1,Southampton,3,3rd,36,1,Yes
+721,Lindell,Mrs Elin Gerda,Mrs,1,F,Female,1,Southampton,3,3rd,30,1,Yes
+722,Lindqvist,Mr Eino William,Mr,0,M,Male,1,Southampton,3,3rd,20,1,Yes
+723,Lindström,Mrs Sigrid,Mrs,1,F,Female,2,Cherbourg,1,1st,55,1,Yes
+724,Linehan,Mr Michael,Mr,0,M,Male,3,Queenstown,3,3rd,21,0,No
+725,Lines,Mrs Elizabeth Lindsey,Mrs,1,F,Female,2,Cherbourg,1,1st,50,1,Yes
+726,Lines,Miss Mary Conover,Miss,1,F,Female,2,Cherbourg,1,1st,16,1,Yes
+727,Ling,Mr Lee,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+728,Lingane,Mr John,Mr,0,M,Male,3,Queenstown,2,2nd,61,0,No
+729,Linhart,Mr Wenzel,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+730,Livshin,Mr David,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+731,Lobb,Mr William Arthur,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+732,Lobb,Mrs Cordelia K.,Mrs,1,F,Female,1,Southampton,3,3rd,26,0,No
+733,Lockyer,Mr Edward Thomas,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+734,Long,Mr Milton Clyde,Mr,0,M,Male,1,Southampton,1,1st,29,0,No
+735,Longley,Miss Gretchen Fiske,Miss,1,F,Female,2,Cherbourg,1,1st,21,1,Yes
+736,Loring,Mr Joseph Holland,Mr,0,M,Male,1,Southampton,1,1st,30,0,No
+737,Louch,Mr Charles,Mr,0,M,Male,1,Southampton,2,2nd,50,0,No
+738,Louch,Mrs Alice Adelaide,Mrs,1,F,Female,1,Southampton,2,2nd,42,0,No
+739,Lovell,Mr John Hall,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+740,Lulic,Mr Nikola,Mr,0,M,Male,1,Southampton,3,3rd,29,1,Yes
+741,Lundahl,Mr Johan Svensson,Mr,0,M,Male,1,Southampton,3,3rd,51,0,No
+742,Lundin,Miss Olga Elida,Miss,1,F,Female,1,Southampton,3,3rd,23,1,Yes
+743,Lundström,Mr Thure Edvin,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+744,Lurette,Miss Eugénie Elise (Maid to Mr & Mrs Spencer),Miss,1,F,Female,2,Cherbourg,1,1st,59,1,Yes
+745,Lymperopoulus,Mr Panagiotis K.,Mr,0,M,Male,2,Cherbourg,3,3rd,30,0,No
+746,Lyntakoff,Mr Stanko,Mr,0,M,Male,1,Southampton,3,3rd,44,0,No
+747,Mack,Mrs Mary,Mrs,1,F,Female,1,Southampton,2,2nd,57,0,No
+748,Mackay,Mr George William,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+749,Madigan,Miss Margaret,Miss,1,F,Female,3,Queenstown,3,3rd,21,1,Yes
+750,Madill,Miss Georgette Alexandra,Miss,1,F,Female,1,Southampton,1,1st,16,1,Yes
+751,Madsen,Mr Fridtjof Arne,Mr,0,M,Male,1,Southampton,3,3rd,24,1,Yes
+752,Mäenpää,Mr Matti Alexanteri,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+753,Maguire,Mr John Edward,Mr,0,M,Male,1,Southampton,1,1st,30,0,No
+754,Mahon,Miss Bridget Delia,Miss,1,F,Female,3,Queenstown,3,3rd,20,0,No
+755,Maioni,Miss Roberta Elizabeth Mary (Maid to the Countess of Rothes),Miss,1,F,Female,1,Southampton,1,1st,19,1,Yes
+756,Maisner,Mr Simon,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+757,Mäkinen,Mr Kalle Edvard,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+758,Malachard,Mr Jean-Noël,Mr,0,M,Male,2,Cherbourg,2,2nd,25,0,No
+759,Mallet,Mr Albert Denis Pierre,Mr,0,M,Male,2,Cherbourg,2,2nd,45,0,No
+760,Mallet,Mrs Antonine Marie,Mrs,1,F,Female,2,Cherbourg,2,2nd,24,1,Yes
+761,Mallet,Master André Clement,Master,0,M,Male,2,Cherbourg,2,2nd,1,1,Yes
+762,Mama,Mr Hanna Mika’ il,Mr,0,M,Male,2,Cherbourg,3,3rd,18,1,Yes
+763,Mangan,Miss Mary,Miss,1,F,Female,3,Queenstown,3,3rd,32,0,No
+764,Mangiavacchi,Mr Serafino Emilio,Mr,0,M,Male,2,Cherbourg,2,2nd,30,0,No
+765,Mannion,Miss Margaret,Miss,1,F,Female,3,Queenstown,3,3rd,28,1,Yes
+766,Mardirosian,Mr Sarkis,Mr,0,M,Male,2,Cherbourg,3,3rd,25,0,No
+767,Maréchal,Mr Pierre,Mr,0,M,Male,2,Cherbourg,1,1st,29,1,Yes
+768,Marinko,Mr Dmitri,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+769,Markoff,Mr Marin,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+770,Markun,Mr Johann,Mr,0,M,Male,2,Cherbourg,3,3rd,33,0,No
+771,Marvin,Mr Daniel Warner,Mr,0,M,Male,1,Southampton,1,1st,18,0,No
+772,Marvin,Mrs Mary Graham Carmichael,Mrs,1,F,Female,1,Southampton,1,1st,18,1,Yes
+773,Matinoff,Mr Nicola,Mr,0,M,Male,2,Cherbourg,3,3rd,30,0,No
+774,Matthews,Mr William John,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+775,Maybery,Mr Frank Hubert,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+776,Mayné,Mlle Berthe Antonine,Mlle,1,F,Female,2,Cherbourg,1,1st,24,1,Yes
+777,McCaffry,Mr Thomas Francis,Mr,0,M,Male,1,Southampton,1,1st,46,0,No
+778,McCarthy,Mr Timothy J.,Mr,0,M,Male,1,Southampton,1,1st,54,0,No
+779,McCarthy,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,24,1,Yes
+780,McCormack,Mr Thomas Joseph,Mr,0,M,Male,3,Queenstown,3,3rd,19,0,No
+781,McCoy,Miss Agnes,Miss,1,F,Female,3,Queenstown,3,3rd,29,1,Yes
+782,McCoy,Miss Alice,Miss,1,F,Female,3,Queenstown,3,3rd,26,1,Yes
+783,McCoy,Mr Bernard,Mr,0,M,Male,3,Queenstown,3,3rd,24,1,Yes
+784,McCrae,Mr Arthur Gordon,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+785,McCrie,Mr James Matthew,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+786,McDermott,Miss Bridget Delia,Miss,1,F,Female,3,Queenstown,3,3rd,31,1,Yes
+787,McEvoy,Mr Michael,Mr,0,M,Male,3,Queenstown,3,3rd,19,0,No
+788,McGough,Mr James Robert,Mr,0,M,Male,1,Southampton,1,1st,35,1,Yes
+789,McGovern,Ms Mary,Ms,1,F,Female,3,Queenstown,3,3rd,22,1,Yes
+790,McGowan,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,42,0,No
+791,McGowan,Miss Anna Louise,Miss,1,F,Female,3,Queenstown,3,3rd,17,0,No
+792,McKane,Mr Peter Daniel,Mr,0,M,Male,1,Southampton,2,2nd,46,0,No
+793,McMahon,Mr Martin,Mr,0,M,Male,3,Queenstown,3,3rd,19,0,No
+794,McNamee,Mr Neal,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+795,McNamee,Mrs Eileen,Mrs,1,F,Female,1,Southampton,3,3rd,19,0,No
+796,McNeill,Miss Bridget,Miss,1,F,Female,3,Queenstown,3,3rd,32,0,No
+797,Meanwell,Mrs Marian,Mrs,1,F,Female,1,Southampton,3,3rd,62,0,No
+798,Meehan,Mr John,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+799,Meek,Mrs Annie Louisa,Mrs,1,F,Female,1,Southampton,3,3rd,31,0,No
+800,Mellinger,Mrs Elizabeth Anne,Mrs,1,F,Female,1,Southampton,2,2nd,41,1,Yes
+801,Mellinger,Miss Violet Madeline,Miss,1,F,Female,1,Southampton,2,2nd,13,1,Yes
+802,Mellors,Mr William John,Mr,0,M,Male,1,Southampton,2,2nd,19,1,Yes
+803,Meo (Martino),Mr Alfonzo,Mr,0,M,Male,1,Southampton,3,3rd,48,0,No
+804,Mernagh,Mr Robert,Mr,0,M,Male,3,Queenstown,3,3rd,28,0,No
+805,Meyer,Mr August,Mr,0,M,Male,1,Southampton,2,2nd,31,0,No
+806,Meyer,Mr Edgar Joseph,Mr,0,M,Male,2,Cherbourg,1,1st,28,0,No
+807,Meyer,Mrs Leila,Mrs,1,F,Female,2,Cherbourg,1,1st,25,1,Yes
+808,Midtsjø,Mr Karl Albert,Mr,0,M,Male,1,Southampton,3,3rd,21,1,Yes
+809,Mihoff,Mr Stoytcho,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+810,Miles,Mr Frank,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+811,Millet,Mr Francis Davis,Mr,0,M,Male,2,Cherbourg,1,1st,65,0,No
+812,Milling,Mr Jacob Christian,Mr,0,M,Male,1,Southampton,2,2nd,48,0,No
+813,Minahan,Dr William Edward,Dr,0,M,Male,3,Queenstown,1,1st,44,0,No
+814,Minahan,Mrs Lillian E.,Mrs,1,F,Female,3,Queenstown,1,1st,37,1,Yes
+815,Minahan,Miss Daisy E.,Miss,1,F,Female,3,Queenstown,1,1st,33,1,Yes
+816,Mineff,Mr Ivan,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+817,Minkoff,Mr Lazar,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+818,Mitchell,Mr Henry Michael,Mr,0,M,Male,1,Southampton,2,2nd,71,0,No
+819,Mitkoff,Mr Mito,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+820,Mock,Mr Philipp Edmund,Mr,0,M,Male,2,Cherbourg,1,1st,30,1,Yes
+821,Mockler,Miss Ellen Mary,Miss,1,F,Female,3,Queenstown,3,3rd,23,1,Yes
+822,Moen,Mr Sigurd Hansen,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+823,Molson,Mr Harry Markland,Mr,0,M,Male,1,Southampton,1,1st,55,0,No
+824,Montvila,Father Juozas,Father,0,M,Male,1,Southampton,2,2nd,27,0,No
+825,Moor,Mrs Beila,Mrs,1,F,Female,1,Southampton,3,3rd,29,1,Yes
+826,Moor,Master Meier,Master,0,M,Male,1,Southampton,3,3rd,7,1,Yes
+827,Moore,Mr Clarence Bloomfield,Mr,0,M,Male,1,Southampton,1,1st,47,0,No
+828,Moore,Mr Leonard Charles,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+829,Moran,Miss Bridget,Miss,1,F,Female,3,Queenstown,3,3rd,28,1,Yes
+830,Moran,Mr Daniel J.,Mr,0,M,Male,3,Queenstown,3,3rd,27,0,No
+831,Moraweck,Dr Ernest,Dr,0,M,Male,1,Southampton,2,2nd,54,0,No
+832,Morley,Mr Henry Samuel,Mr,0,M,Male,1,Southampton,2,2nd,38,0,No
+833,Morley,Mr William,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+834,Morrow,Mr Thomas Rowan,Mr,0,M,Male,3,Queenstown,3,3rd,30,0,No
+835,Moss,Mr Albert Johan,Mr,0,M,Male,1,Southampton,3,3rd,29,1,Yes
+836,Moussa,Mrs Mantoura Boulos,Mrs,1,F,Female,2,Cherbourg,3,3rd,35,0,No
+837,Moutal,Mr Rahamin Haim,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+838,Mubarik,Mrs Am inah,Mrs,1,F,Female,2,Cherbourg,3,3rd,24,1,Yes
+839,Mubarik,Master Jirjis,Master,0,M,Male,2,Cherbourg,3,3rd,7,1,Yes
+840,Mubarik,Master Hal im,Master,0,M,Male,2,Cherbourg,3,3rd,4,1,Yes
+841,Mudd,Mr Thomas Cupper,Mr,0,M,Male,1,Southampton,2,2nd,16,0,No
+842,Mullin,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,21,1,Yes
+843,Mullin,Miss Mary (Lennon),Miss,1,F,Female,3,Queenstown,3,3rd,18,0,No
+844,Mulvihill,Miss Bridget Elizabeth,Miss,1,F,Female,3,Queenstown,3,3rd,25,1,Yes
+845,Murdlin,Mr Joseph,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+846,Murphy,Miss Nora,Miss,1,F,Female,3,Queenstown,3,3rd,34,1,Yes
+847,Murphy,Miss Margaret Jane,Miss,1,F,Female,3,Queenstown,3,3rd,25,1,Yes
+848,Murphy,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,18,1,Yes
+849,Muslaman i,Mrs Fat imah Muhammad,Mrs,1,F,Female,2,Cherbourg,3,3rd,22,1,Yes
+850,Myhrman,Mr Pehr Fabian Oliver Malkolm,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+851,Myles,Mr Thomas Francis,Mr,0,M,Male,3,Queenstown,2,2nd,63,0,No
+852,N iqula Yarid,Miss Jamilah,Miss,1,F,Female,2,Cherbourg,3,3rd,14,1,Yes
+853,N iqula Yarid,Master Ilyas,Master,0,M,Male,2,Cherbourg,3,3rd,11,1,Yes
+854,Naidenoff,Mr Penko,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+855,Najib Kiamie,Miss Adele,Miss,1,F,Female,2,Cherbourg,3,3rd,15,1,Yes
+856,Nakhli,Mr Toufik,Mr,0,M,Male,2,Cherbourg,3,3rd,17,0,No
+857,Nakid,Mr Sahid,Mr,0,M,Male,2,Cherbourg,3,3rd,20,1,Yes
+858,Nakid,Mrs Waika,Mrs,1,F,Female,2,Cherbourg,3,3rd,19,1,Yes
+859,Nakid,Miss Maria,Miss,1,F,Female,2,Cherbourg,3,3rd,1,1,Yes
+860,Nancarrow,Mr William Henry,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+861,Nankoff,Mr Minko,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+862,Nasr ‘Alma,Mr Mustafà,Mr,0,M,Male,2,Cherbourg,3,3rd,20,0,No
+863,Nasser,Mr Nicholas,Mr,0,M,Male,2,Cherbourg,2,2nd,28,0,No
+864,Nasser,Mrs Adele,Mrs,1,F,Female,2,Cherbourg,2,2nd,14,0,No
+865,Nassr Rizq,Mr Saade,Mr,0,M,Male,2,Cherbourg,3,3rd,20,0,No
+866,Natsch,Mr Charles,Mr,0,M,Male,2,Cherbourg,1,1st,36,0,No
+867,Naughton,Miss Hannah,Miss,1,F,Female,3,Queenstown,3,3rd,21,0,No
+868,Navratil,Mr Michel,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+869,Navratil,Master Michel Marcel,Master,0,M,Male,1,Southampton,2,2nd,3,1,Yes
+870,Navratil,Master Edmond Roger,Master,0,M,Male,1,Southampton,2,2nd,2,1,Yes
+871,Nenkov,Mr Hristo,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+872,Nesson,Mr Israel,Mr,0,M,Male,1,Southampton,2,2nd,26,0,No
+873,Newell,Mr Arthur Webster,Mr,0,M,Male,2,Cherbourg,1,1st,58,0,No
+874,Newell,Miss Madeleine,Miss,1,F,Female,2,Cherbourg,1,1st,31,1,Yes
+875,Newell,Miss Marjorie Anne,Miss,1,F,Female,2,Cherbourg,1,1st,23,1,Yes
+876,Newsom,Miss Helen Monypeny,Miss,1,F,Female,1,Southampton,1,1st,19,1,Yes
+877,Nicholls,Mr Joseph Charles,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+878,Nicholson,Mr Arthur Ernest,Mr,0,M,Male,1,Southampton,1,1st,59,0,No
+879,Nieminen,Miss Manta Josefina,Miss,1,F,Female,1,Southampton,3,3rd,29,0,No
+880,Niklasson,Mr Samuel,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+881,Nilsson,Miss Helmina Josefina,Miss,1,F,Female,1,Southampton,3,3rd,26,1,Yes
+882,Nilsson,Mr August Ferdinand,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+883,Nilsson,Miss Berta Olivia,Miss,1,F,Female,1,Southampton,3,3rd,18,1,Yes
+884,Nirva,Mr Iisakki Antino äijö,Mr,0,M,Male,1,Southampton,3,3rd,41,0,No
+885,Niskänen,Mr Juha,Mr,0,M,Male,1,Southampton,3,3rd,39,1,Yes
+886,Nofal,Mr Mansouer,Mr,0,M,Male,2,Cherbourg,3,3rd,20,0,No
+887,Norman,Mr Robert Douglas,Mr,0,M,Male,1,Southampton,2,2nd,27,0,No
+888,Nosworthy,Mr Richard Cater,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+889,Nourney,Mr Alfred,Mr,0,M,Male,2,Cherbourg,1,1st,20,1,Yes
+890,Nye,Mrs Elizabeth,Mrs,1,F,Female,1,Southampton,2,2nd,29,1,Yes
+891,Nysten,Miss Anna Sofia,Miss,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+892,Nysveen,Mr Johan Hansen,Mr,0,M,Male,1,Southampton,3,3rd,60,0,No
+893,O'Brien,Mr Thomas,Mr,0,M,Male,3,Queenstown,3,3rd,27,0,No
+894,O'Brien,Mrs Johanna,Mrs,1,F,Female,3,Queenstown,3,3rd,26,0,No
+895,O'Brien,Mr Denis,Mr,0,M,Male,3,Queenstown,3,3rd,21,0,No
+896,O'Connell,Mr Patrick Denis,Mr,0,M,Male,3,Queenstown,3,3rd,17,0,No
+897,O'Connor,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,23,0,No
+898,O'Connor,Mr Maurice,Mr,0,M,Male,3,Queenstown,3,3rd,16,0,No
+899,Ödahl,Mr Nils Martin,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+900,O'Dwyer,Miss Ellen,Miss,1,F,Female,3,Queenstown,3,3rd,25,1,Yes
+901,Öhman,Miss Velin,Miss,1,F,Female,1,Southampton,3,3rd,22,1,Yes
+902,O'Keefe,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,21,1,Yes
+903,O'Leary,Miss Hanora,Miss,1,F,Female,3,Queenstown,3,3rd,16,1,Yes
+904,Oliva Y Ocana,Doña Fermina (Maid to Mrs Victor de Satode Peñasco y Castellana),Doña,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+905,Olsen,Mr Karl Siegwart Andreas,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+906,Olsen,Mr Henry Margido,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+907,Olsen,Mr Ole Martin,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+908,Olsen,Master Artur Karl,Master,0,M,Male,1,Southampton,3,3rd,9,1,Yes
+909,Olsson,Mr Oscar Wilhelm,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+910,Olsson,Miss Elina,Miss,1,F,Female,1,Southampton,3,3rd,31,0,No
+911,Olsson,Mr Nils Johan Göransson,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+912,Olsvigen,Mr Thor Anderson,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+913,Omont,Mr Alfred Fernand,Mr,0,M,Male,2,Cherbourg,1,1st,29,1,Yes
+914,Oreskovic,Miss Jelka,Miss,1,F,Female,1,Southampton,3,3rd,23,0,No
+915,Oreskovic,Mr Luka,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+916,Oreskovic,Miss Marija,Miss,1,F,Female,1,Southampton,3,3rd,20,0,No
+917,Osén,Mr Olaf Elon,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+918,Ostby,Mr Engelhart Cornelius,Mr,0,M,Male,1,Southampton,1,1st,64,0,No
+919,Østby,Miss Helen Ragnhild,Miss,1,F,Female,1,Southampton,1,1st,22,1,Yes
+920,O'Sullivan,Miss Bridget Mary,Miss,1,F,Female,3,Queenstown,3,3rd,21,0,No
+921,Otter,Mr Richard,Mr,0,M,Male,1,Southampton,2,2nd,38,0,No
+922,Oviés Y Rodríguez,Mr Servando José Florentino,Mr,0,M,Male,2,Cherbourg,1,1st,36,0,No
+923,Oxenham,Mr Percy Thomas,Mr,0,M,Male,1,Southampton,2,2nd,22,1,Yes
+924,Padron Manent,Mr Julian,Mr,0,M,Male,2,Cherbourg,2,2nd,26,1,Yes
+925,Pain,Dr Alfred,Dr,0,M,Male,1,Southampton,2,2nd,23,0,No
+926,Pallàs I Castelló,Señor Emili,Señor,0,M,Male,2,Cherbourg,2,2nd,29,1,Yes
+927,Pålsson,Mrs Alma Cornelia,Mrs,1,F,Female,1,Southampton,3,3rd,29,0,No
+928,Pålsson,Miss Torborg Danira,Miss,1,F,Female,1,Southampton,3,3rd,8,0,No
+929,Pålsson,Master Paul Folke,Master,0,M,Male,1,Southampton,3,3rd,6,0,No
+930,Pålsson,Miss Stina Viola,Miss,1,F,Female,1,Southampton,3,3rd,3,0,No
+931,Pålsson,Master Gösta Leonard,Master,0,M,Male,1,Southampton,3,3rd,2,0,No
+932,Panula,Mrs Maija Emelia Abrahamintytar,Mrs,1,F,Female,1,Southampton,3,3rd,41,0,No
+933,Panula,Mr Ernesti Arvid,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+934,Panula,Master Jaako Arnold,Master,0,M,Male,1,Southampton,3,3rd,14,0,No
+935,Panula,Master Juha Niilo,Master,0,M,Male,1,Southampton,3,3rd,7,0,No
+936,Panula,Master Urho Abraham,Master,0,M,Male,1,Southampton,3,3rd,2,0,No
+937,Panula,Master Eino Viljam,Master,0,M,Male,1,Southampton,3,3rd,1,0,No
+938,Parker,Mr Clifford Richard,Mr,0,M,Male,1,Southampton,2,2nd,17,0,No
+939,Parkes,Mr Francis,Mr,0,M,Male,0,Belfast,2,2nd,21,0,No
+940,Parr,Mr William Henry Marsh,Mr,0,M,Male,0,Belfast,1,1st,29,0,No
+941,Parrish,Mrs Lutie Davis,Mrs,1,F,Female,1,Southampton,2,2nd,59,1,Yes
+942,Partner,Mr Austin,Mr,0,M,Male,1,Southampton,1,1st,40,0,No
+943,Pasic,Mr Jakob,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+944,Patchett,Mr George,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+945,Pavlovic,Mr Stefo,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+946,Payne,Mr Vivian Ponsonby (Private secretary to Mr Charles Melville Hays),Mr,0,M,Male,1,Southampton,1,1st,22,0,No
+947,Peacock,Master Albert Edward,Master,0,M,Male,1,Southampton,3,3rd,0,0,No
+948,Peacock,Mrs Edith,Mrs,1,F,Female,1,Southampton,3,3rd,26,0,No
+949,Peacock,Miss Treasteall,Miss,1,F,Female,1,Southampton,3,3rd,3,0,No
+950,Pearce,Mr Ernest,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+951,Pears,Mr Thomas Clinton,Mr,0,M,Male,1,Southampton,1,1st,29,0,No
+952,Pears,Mrs Edith,Mrs,1,F,Female,1,Southampton,1,1st,22,1,Yes
+953,Pedersen,Mr Olaf,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+954,Peduzzi,Mr Giuseppe,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+955,Pekoniemi,Mr Edvard,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+956,Peltomäki,Mr Nikolai Johannes,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+957,Peñasco Y Castellana,Mr Victor,Mr,0,M,Male,2,Cherbourg,1,1st,24,0,No
+958,Peñasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,Mrs,1,F,Female,2,Cherbourg,1,1st,22,1,Yes
+959,Pengelly,Mr Frederick William,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+960,Perkin,Mr John Henry,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+961,Pernot,Mr René,Mr,0,M,Male,2,Cherbourg,2,2nd,39,0,No
+962,Perreault,Miss Mary Anne (Maid to Mrs Charles Melville Hays),Miss,1,F,Female,1,Southampton,1,1st,33,1,Yes
+963,Persson,Mr Ernst Ulrik,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+964,Peruschitz,Father Josef,Father,0,M,Male,1,Southampton,2,2nd,41,0,No
+965,Peter/Joseph,Master Michael J.,Master,0,M,Male,2,Cherbourg,3,3rd,4,1,Yes
+966,Peter/Joseph,Miss Anna,Miss,1,F,Female,2,Cherbourg,3,3rd,2,1,Yes
+967,Peteranec,Miss Mathilda,Miss,1,F,Female,1,Southampton,3,3rd,28,0,No
+968,Peters,Miss Catherine,Miss,1,F,Female,3,Queenstown,3,3rd,26,0,No
+969,Petersen,Mr Marius,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+970,Petroff,Mr Pastcho,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+971,Petroff,Mr Nedialco,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+972,Pettersson,Mr Johan Emil,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+973,Pettersson,Miss Elin Natalia,Miss,1,F,Female,1,Southampton,3,3rd,18,0,No
+974,Peuchen,Major Arthur Godfrey,Major,0,M,Male,1,Southampton,1,1st,52,1,Yes
+975,Phillips,Mr Escott Robert,Mr,0,M,Male,1,Southampton,2,2nd,42,0,No
+976,Phillips,Miss Alice Frances Louisa,Miss,1,F,Female,1,Southampton,2,2nd,21,1,Yes
+977,Phillips,Miss Kate Florence,Miss,1,F,Female,1,Southampton,2,2nd,19,1,Yes
+978,Picard,Mr Benoît,Mr,0,M,Male,1,Southampton,3,3rd,32,1,Yes
+979,Pinsky,Mrs Rosa,Mrs,1,F,Female,1,Southampton,2,2nd,32,1,Yes
+980,Plotcharsky,Mr Vasil,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+981,Pokrnic,Mr Tome,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+982,Pokrnic,Mr Mate,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+983,Ponesell,Mr Martin,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+984,Portaluppi,Mr Emilio Ilario Giuseppe,Mr,0,M,Male,2,Cherbourg,2,2nd,30,1,Yes
+985,Porter,Mr Walter Chamberlain,Mr,0,M,Male,1,Southampton,1,1st,46,0,No
+986,Potter,Mrs Lily Alexenia,Mrs,1,F,Female,2,Cherbourg,1,1st,56,1,Yes
+987,Pulbaum,Mr Franz,Mr,0,M,Male,2,Cherbourg,2,2nd,27,0,No
+988,Pulner,Mr Uscher,Mr,0,M,Male,2,Cherbourg,3,3rd,16,0,No
+989,Quick,Mrs Jane,Mrs,1,F,Female,1,Southampton,2,2nd,33,1,Yes
+990,Quick,Miss Winifred Vera,Miss,1,F,Female,1,Southampton,2,2nd,8,1,Yes
+991,Quick,Miss Phyllis May,Miss,1,F,Female,1,Southampton,2,2nd,2,1,Yes
+992,Radeff,Mr Alexander,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+993,Raful-Bulus,Mr Bakhus,Mr,0,M,Male,2,Cherbourg,3,3rd,20,0,No
+994,Rasmussen,Mrs Lena Jakobsen,Mrs,1,F,Female,1,Southampton,3,3rd,63,0,No
+995,Razi,Mr Raihed,Mr,0,M,Male,2,Cherbourg,3,3rd,30,0,No
+996,Reed,Mr James George,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+997,Reeves,Mr David,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+998,Rekic,Mr Tido,Mr,0,M,Male,1,Southampton,3,3rd,38,0,No
+999,Renouf,Mr Peter Henry,Mr,0,M,Male,1,Southampton,2,2nd,33,0,No
+1000,Renouf,Mrs Lillian,Mrs,1,F,Female,1,Southampton,2,2nd,30,0,No
+1001,Reuchlin,Mr Jonkheer Johan George,Mr,0,M,Male,2,Cherbourg,1,1st,38,0,No
+1002,Reynalds,Señora Encarnación,Señora,1,F,Female,1,Southampton,2,2nd,28,1,Yes
+1003,Reynolds,Mr Harold,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1004,Rheims,Mr George Alexander Lucien,Mr,0,M,Male,2,Cherbourg,1,1st,33,1,Yes
+1005,Rice,Mrs Margaret,Mrs,1,F,Female,3,Queenstown,3,3rd,39,0,No
+1006,Rice,Master Albert,Master,0,M,Male,3,Queenstown,3,3rd,10,0,No
+1007,Rice,Master George Hugh,Master,0,M,Male,3,Queenstown,3,3rd,8,0,No
+1008,Rice,Master Eric,Master,0,M,Male,3,Queenstown,3,3rd,7,0,No
+1009,Rice,Master Arthur,Master,0,M,Male,3,Queenstown,3,3rd,4,0,No
+1010,Rice,Master Eugene Francis,Master,0,M,Male,3,Queenstown,3,3rd,2,0,No
+1011,Richard,Mr Emile Phillippe,Mr,0,M,Male,2,Cherbourg,2,2nd,23,0,No
+1012,Richards,Master Sibley George,Master,0,M,Male,1,Southampton,2,2nd,0,1,Yes
+1013,Richards,Mrs Emily,Mrs,1,F,Female,1,Southampton,2,2nd,24,1,Yes
+1014,Richards,Master William Rowe,Master,0,M,Male,1,Southampton,2,2nd,3,1,Yes
+1015,Ridsdale,Miss Lucy,Miss,1,F,Female,1,Southampton,2,2nd,58,1,Yes
+1016,Righini,Mr Sante (Manservant to Mrs John Stewart White),Mr,0,M,Male,2,Cherbourg,1,1st,22,0,No
+1017,Riihivuori,Miss Susanna Juhantytär,Miss,1,F,Female,1,Southampton,3,3rd,22,0,No
+1018,Rintamäki,Mr Matti,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+1019,Riordan,Miss Hannah,Miss,1,F,Female,3,Queenstown,3,3rd,18,1,Yes
+1020,Risien,Mr Samuel Beard,Mr,0,M,Male,1,Southampton,3,3rd,69,0,No
+1021,Risien,Mrs Emma Jane,Mrs,1,F,Female,1,Southampton,3,3rd,58,0,No
+1022,Robert,Mrs Elisabeth Walton,Mrs,1,F,Female,1,Southampton,1,1st,43,1,Yes
+1023,Robins,Mr Alexander A.,Mr,0,M,Male,1,Southampton,3,3rd,50,0,No
+1024,Robins,Mrs Charity,Mrs,1,F,Female,1,Southampton,3,3rd,47,0,No
+1025,Robins,Mr Victor (Valet to Mr John Jacob Astor),Mr,0,M,Male,2,Cherbourg,1,1st,42,0,No
+1026,Roebling,Mr Washington Augustus II,Mr,0,M,Male,1,Southampton,1,1st,31,0,No
+1027,Rogers,Mr William John,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+1028,Rogers,Mr Reginald Harry,Mr,0,M,Male,1,Southampton,2,2nd,18,0,No
+1029,Romaine,Mr Charles Hallace,Mr,0,M,Male,1,Southampton,1,1st,45,1,Yes
+1030,Rommetvedt,Mr Knud Paust,Mr,0,M,Male,1,Southampton,3,3rd,49,0,No
+1031,Rood,Mr Hugh Roscoe,Mr,0,M,Male,1,Southampton,1,1st,39,0,No
+1032,Rosblom,Mrs Helena Wilhelmina,Mrs,1,F,Female,1,Southampton,3,3rd,41,0,No
+1033,Rosblom,Mr Viktor Richard,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+1034,Rosblom,Miss Salli Helena,Miss,1,F,Female,1,Southampton,3,3rd,2,0,No
+1035,Rosenbaum,Miss Edith Louise,Miss,1,F,Female,2,Cherbourg,1,1st,33,1,Yes
+1036,Rosenshine,Mr George,Mr,0,M,Male,2,Cherbourg,1,1st,46,0,No
+1037,Ross,Mr John Hugo,Mr,0,M,Male,1,Southampton,1,1st,36,0,No
+1038,Roth,Miss Sarah,Miss,1,F,Female,1,Southampton,3,3rd,31,1,Yes
+1039,Rothes,"Countess Lucy Noël Martha, Countess of",Countess,1,F,Female,1,Southampton,1,1st,33,1,Yes
+1040,Rothschild,Mrs Elizabeth Jane Anne,Mrs,1,F,Female,2,Cherbourg,1,1st,54,1,Yes
+1041,Rothschild,Mr Martin,Mr,0,M,Male,2,Cherbourg,1,1st,46,0,No
+1042,Rouse,Mr Richard Henry,Mr,0,M,Male,1,Southampton,3,3rd,53,0,No
+1043,Rowe,Mr Alfred G.,Mr,0,M,Male,1,Southampton,1,1st,59,0,No
+1044,Rugg,Miss Emily,Miss,1,F,Female,1,Southampton,2,2nd,21,1,Yes
+1045,Rush,Mr Alfred George John,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+1046,Ryan,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,30,0,No
+1047,Ryan,Mr Edward,Mr,0,M,Male,3,Queenstown,3,3rd,24,1,Yes
+1048,Ryerson,Mr Arthur Larned,Mr,0,M,Male,2,Cherbourg,1,1st,61,0,No
+1049,Ryerson,Mrs Emily Maria,Mrs,1,F,Female,2,Cherbourg,1,1st,48,1,Yes
+1050,Ryerson,Miss Susan Parker “Suzette”,Miss,1,F,Female,2,Cherbourg,1,1st,21,1,Yes
+1051,Ryerson,Miss Emily Borie,Miss,1,F,Female,2,Cherbourg,1,1st,18,1,Yes
+1052,Ryerson,Master John Borie,Master,0,M,Male,2,Cherbourg,1,1st,13,1,Yes
+1053,Saad,Mr Amin,Mr,0,M,Male,2,Cherbourg,3,3rd,30,0,No
+1054,Saad,Mr Khalil,Mr,0,M,Male,2,Cherbourg,3,3rd,27,0,No
+1055,Saalfeld,Mr Adolphe,Mr,0,M,Male,1,Southampton,1,1st,47,1,Yes
+1056,Sadlier,Mr Matthew,Mr,0,M,Male,3,Queenstown,3,3rd,18,0,No
+1057,Sadowitz,Mr Henry,Mr,0,M,Male,1,Southampton,3,3rd,17,0,No
+1058,Sæther,Mr Simon Sivertsen,Mr,0,M,Male,1,Southampton,3,3rd,43,0,No
+1059,Sage,Mr John George,Mr,0,M,Male,1,Southampton,3,3rd,44,0,No
+1060,Sage,Mrs Annie Elizabeth,Mrs,1,F,Female,1,Southampton,3,3rd,44,0,No
+1061,Sage,Miss Stella Anne,Miss,1,F,Female,1,Southampton,3,3rd,20,0,No
+1062,Sage,Mr George John,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+1063,Sage,Mr Douglas Bullen,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+1064,Sage,Mr Frederick,Mr,0,M,Male,1,Southampton,3,3rd,16,0,No
+1065,Sage,Miss Dorothy,Miss,1,F,Female,1,Southampton,3,3rd,14,0,No
+1066,Sage,Master Anthony William,Master,0,M,Male,1,Southampton,3,3rd,12,0,No
+1067,Sage,Miss Elizabeth Ada,Miss,1,F,Female,1,Southampton,3,3rd,10,0,No
+1068,Sage,Miss Constance Gladys,Miss,1,F,Female,1,Southampton,3,3rd,7,0,No
+1069,Sage,Master Thomas Henry,Master,0,M,Male,1,Southampton,3,3rd,4,0,No
+1070,Sägesser,Mlle Emma (Maid to Mme. Léontine Pauline Aubart),Mlle,1,F,Female,2,Cherbourg,1,1st,24,1,Yes
+1071,Salander,Mr Karl Johan,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+1072,Salkjelsvik,Miss Anna Kristine,Miss,1,F,Female,1,Southampton,3,3rd,21,1,Yes
+1073,Salomon,Mr Abraham Lincoln,Mr,0,M,Male,2,Cherbourg,1,1st,43,1,Yes
+1074,Salonen,Mr Johan Werner,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
+1075,Samaan,Mr Hanna Elias,Mr,0,M,Male,2,Cherbourg,3,3rd,40,0,No
+1076,Samaan,Mr Elias,Mr,0,M,Male,2,Cherbourg,3,3rd,17,0,No
+1077,Samaan,Mr Youssef,Mr,0,M,Male,2,Cherbourg,3,3rd,16,0,No
+1078,Sandström,Mrs Agnes Charlotta,Mrs,1,F,Female,1,Southampton,3,3rd,24,1,Yes
+1079,Sandström,Miss Marguerite Rut,Miss,1,F,Female,1,Southampton,3,3rd,4,1,Yes
+1080,Sandström,Miss Beatrice Irene,Miss,1,F,Female,1,Southampton,3,3rd,1,1,Yes
+1081,Sap,Mr Julius,Mr,0,M,Male,1,Southampton,3,3rd,21,1,Yes
+1082,Saundercock,Mr William Henry,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+1083,Sawyer,Mr Frederick Charles,Mr,0,M,Male,1,Southampton,3,3rd,33,0,No
+1084,Scanlan,Mr James,Mr,0,M,Male,3,Queenstown,3,3rd,22,0,No
+1085,Schabert,Mrs Emma,Mrs,1,F,Female,2,Cherbourg,1,1st,35,1,Yes
+1086,Scheerlinck,Mr Jean,Mr,0,M,Male,1,Southampton,3,3rd,29,1,Yes
+1087,Schmidt,Mr Augustus,Mr,0,M,Male,1,Southampton,2,2nd,21,0,No
+1088,Sdycoff,Mr Todor,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+1089,Sedgwick,Mr Charles Frederick Waddington,Mr,0,M,Male,1,Southampton,2,2nd,28,0,No
+1090,Seman,Master Betros,Master,0,M,Male,2,Cherbourg,3,3rd,10,0,No
+1091,Serreplan,Miss Auguste (Maid to Mrs William Carter),Miss,1,F,Female,1,Southampton,1,1st,30,1,Yes
+1092,Seward,Mr Frederic Kimber,Mr,0,M,Male,1,Southampton,1,1st,34,1,Yes
+1093,Shannon,Mr Andrew John,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1094,Sharp,Mr Percival,Mr,0,M,Male,1,Southampton,2,2nd,27,0,No
+1095,Shaughnessy,Mr Patrick,Mr,0,M,Male,3,Queenstown,3,3rd,24,0,No
+1096,Shedid,Mr Daher,Mr,0,M,Male,2,Cherbourg,3,3rd,19,0,No
+1097,Shellard,Mr Frederick William Blainey,Mr,0,M,Male,1,Southampton,3,3rd,55,0,No
+1098,Shelley,Mrs Imanita Parrish,Mrs,1,F,Female,1,Southampton,2,2nd,25,1,Yes
+1099,Shihab,Mr Al-Am ir Faris,Mr,0,M,Male,2,Cherbourg,3,3rd,29,0,No
+1100,Shine,Miss Ellen,Miss,1,F,Female,3,Queenstown,3,3rd,20,0,No
+1101,Shorney,Mr Charles Joseph,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+1102,Shutes,Miss Elizabeth Weed (Governess to Miss Margaret Edith Graham),Miss,1,F,Female,1,Southampton,1,1st,40,1,Yes
+1103,Silvén,Miss Lyyli Karoliina,Miss,1,F,Female,1,Southampton,2,2nd,17,1,Yes
+1104,Silverthorne,Mr Spencer Victor,Mr,0,M,Male,1,Southampton,1,1st,35,1,Yes
+1105,Silvey,Mr William Baird,Mr,0,M,Male,2,Cherbourg,1,1st,51,0,No
+1106,Silvey,Mrs Alice Gray,Mrs,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+1107,Simmons,Mr John,Mr,0,M,Male,1,Southampton,3,3rd,40,0,No
+1108,Simonius-Blumer,Mr Colonel (Oberst) Alfons,Mr,0,M,Male,1,Southampton,1,1st,56,1,Yes
+1109,Sincock,Miss Maude,Miss,1,F,Female,1,Southampton,2,2nd,20,1,Yes
+1110,Sinkkonen,Miss Anna,Miss,1,F,Female,1,Southampton,2,2nd,29,1,Yes
+1111,Sirayanian,Mr Orsen,Mr,0,M,Male,2,Cherbourg,3,3rd,22,0,No
+1112,Sirota,Mr Morris,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+1113,Sivic,Mr Husein,Mr,0,M,Male,1,Southampton,3,3rd,40,0,No
+1114,Sivola,Mr Antti Wilhelm,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1115,Sjöblom,Miss Anna Sofia,Miss,1,F,Female,1,Southampton,3,3rd,18,1,Yes
+1116,Sjöstedt,Mr Ernst Adolf,Mr,0,M,Male,1,Southampton,2,2nd,59,0,No
+1117,Skoog,Mrs Anna Bernhardina,Mrs,1,F,Female,1,Southampton,3,3rd,43,0,No
+1118,Skoog,Mr Wilhelm Johansson,Mr,0,M,Male,1,Southampton,3,3rd,40,0,No
+1119,Skoog,Master Karl Thorsten,Master,0,M,Male,1,Southampton,3,3rd,11,0,No
+1120,Skoog,Miss Mabel,Miss,1,F,Female,1,Southampton,3,3rd,9,0,No
+1121,Skoog,Master Harald,Master,0,M,Male,1,Southampton,3,3rd,5,0,No
+1122,Skoog,Miss Margit Elizabeth,Miss,1,F,Female,1,Southampton,3,3rd,2,0,No
+1123,Slabenoff,Mr Petco,Mr,0,M,Male,1,Southampton,3,3rd,42,0,No
+1124,Slayter,Miss Hilda Mary,Miss,1,F,Female,3,Queenstown,2,2nd,30,1,Yes
+1125,Slemen,Mr Richard James,Mr,0,M,Male,1,Southampton,2,2nd,35,0,No
+1126,Slocovski,Mr Selman Francis,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+1127,Sloper,Mr William Thompson,Mr,0,M,Male,1,Southampton,1,1st,28,1,Yes
+1128,Smart,Mr John Montgomery,Mr,0,M,Male,1,Southampton,1,1st,56,0,No
+1129,Smiljanic,Mr Mile,Mr,0,M,Male,1,Southampton,3,3rd,37,0,No
+1130,Smith,Mr Richard William,Mr,0,M,Male,1,Southampton,1,1st,57,0,No
+1131,Smith,Mr James Clinch,Mr,0,M,Male,2,Cherbourg,1,1st,56,0,No
+1132,Smith,Miss Marion Elsie,Miss,1,F,Female,1,Southampton,2,2nd,39,1,Yes
+1133,Smith,Mr Lucian Philip,Mr,0,M,Male,2,Cherbourg,1,1st,24,0,No
+1134,Smith,Mrs Mary Eloise,Mrs,1,F,Female,2,Cherbourg,1,1st,18,1,Yes
+1135,Smyth,Mr Thomas,Mr,0,M,Male,3,Queenstown,3,3rd,26,0,No
+1136,Smyth,Miss Julia,Miss,1,F,Female,3,Queenstown,3,3rd,17,1,Yes
+1137,Snyder,Mr John Pillsbury,Mr,0,M,Male,1,Southampton,1,1st,24,1,Yes
+1138,Snyder,Mrs Nelle,Mrs,1,F,Female,1,Southampton,1,1st,23,1,Yes
+1139,Sobey,Mr Samuel James Hayden,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+1140,Søholt,Mr Peter Andreas Lauritz Andersen,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+1141,Somerton,Mr Francis William,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+1142,Spector,Mr Woolf,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+1143,Spedden,Mr Frederic Oakley,Mr,0,M,Male,2,Cherbourg,1,1st,45,1,Yes
+1144,Spedden,Mrs Margaretta Corning “Daisy”,Mrs,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+1145,Spedden,Master Robert Douglas,Master,0,M,Male,2,Cherbourg,1,1st,6,1,Yes
+1146,Spencer,Mr William Augustus,Mr,0,M,Male,2,Cherbourg,1,1st,57,0,No
+1147,Spencer,Mrs Marie Eugenie,Mrs,1,F,Female,2,Cherbourg,1,1st,45,1,Yes
+1148,Spinner,Mr Henry John,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+1149,Stähelin-Maeglin,Dr Max,Dr,0,M,Male,1,Southampton,1,1st,32,1,Yes
+1150,Staneff,Mr Ivan,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+1151,Stankovic,Mr Ivan,Mr,0,M,Male,2,Cherbourg,3,3rd,33,0,No
+1152,Stanley,Miss Amy Zillah Elsie,Miss,1,F,Female,1,Southampton,3,3rd,24,1,Yes
+1153,Stanley,Mr Edward Roland,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1154,Stanton,Mr Samuel Ward,Mr,0,M,Male,2,Cherbourg,2,2nd,42,0,No
+1155,Stead,Mr William Thomas,Mr,0,M,Male,1,Southampton,1,1st,62,0,No
+1156,Stengel,Mr Charles Emil Henry,Mr,0,M,Male,2,Cherbourg,1,1st,54,1,Yes
+1157,Stengel,Mrs Annie May,Mrs,1,F,Female,2,Cherbourg,1,1st,44,1,Yes
+1158,Stephenson,Mrs Martha,Mrs,1,F,Female,2,Cherbourg,1,1st,52,1,Yes
+1159,Stewart,Mr Albert Ankeny,Mr,0,M,Male,2,Cherbourg,1,1st,64,0,No
+1160,Stokes,Mr Philip Joseph,Mr,0,M,Male,1,Southampton,2,2nd,25,0,No
+1161,Stone,Mrs Martha Evelyn,Mrs,1,F,Female,1,Southampton,1,1st,62,1,Yes
+1162,Storey,Mr Thomas,Mr,0,M,Male,1,Southampton,3,3rd,51,0,No
+1163,Stoytcheff,Mr Ilia,Mr,0,M,Male,1,Southampton,3,3rd,19,0,No
+1164,Strandberg,Miss Ida Sofia,Miss,1,F,Female,1,Southampton,3,3rd,22,0,No
+1165,Strandén,Mr Juho Niilosson,Mr,0,M,Male,1,Southampton,3,3rd,31,1,Yes
+1166,Straus,Mr Isidor,Mr,0,M,Male,1,Southampton,1,1st,67,0,No
+1167,Straus,Mrs Rosalie Ida,Mrs,1,F,Female,1,Southampton,1,1st,63,0,No
+1168,Strilic,Mr Ivan,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+1169,Ström,Mrs Elna Matilda,Mrs,1,F,Female,1,Southampton,3,3rd,29,0,No
+1170,Ström,Miss Telma Matilda,Miss,1,F,Female,1,Southampton,3,3rd,2,0,No
+1171,Sunderland,Mr Victor Francis,Mr,0,M,Male,1,Southampton,3,3rd,20,1,Yes
+1172,Sundman,Mr Johan Julian,Mr,0,M,Male,1,Southampton,3,3rd,44,1,Yes
+1173,Sutehall,Mr Henry Jr,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+1174,Sutton,Mr Frederick,Mr,0,M,Male,1,Southampton,1,1st,61,0,No
+1175,Svensson,Mr Johan,Mr,0,M,Male,1,Southampton,3,3rd,74,0,No
+1176,Svensson,Mr Olof,Mr,0,M,Male,1,Southampton,3,3rd,24,0,No
+1177,Svensson,Mr Johan Cervin,Mr,0,M,Male,1,Southampton,3,3rd,14,1,Yes
+1178,Swane,Mr George,Mr,0,M,Male,1,Southampton,2,2nd,19,0,No
+1179,Sweet,Mr George Frederick,Mr,0,M,Male,1,Southampton,2,2nd,14,0,No
+1180,Swift,Mrs Margaret Welles,Mrs,1,F,Female,1,Southampton,1,1st,46,1,Yes
+1181,Tannus,Master As’ad,Master,0,M,Male,2,Cherbourg,3,3rd,0,1,Yes
+1182,Tannus,Mr Bash ir,Mr,0,M,Male,2,Cherbourg,3,3rd,31,0,No
+1183,Tannus,Mrs Tham in,Mrs,1,F,Female,2,Cherbourg,3,3rd,16,1,Yes
+1184,Taussig,Mr Emil,Mr,0,M,Male,1,Southampton,1,1st,52,0,No
+1185,Taussig,Mrs Tillie,Mrs,1,F,Female,1,Southampton,1,1st,39,1,Yes
+1186,Taussig,Miss Ruth,Miss,1,F,Female,1,Southampton,1,1st,18,1,Yes
+1187,Taylor,Mrs Juliet Cummins,Mrs,1,F,Female,1,Southampton,1,1st,49,1,Yes
+1188,Taylor,Mr Elmer Zebley,Mr,0,M,Male,1,Southampton,1,1st,48,1,Yes
+1189,Taylor,Mr Percy Cornelius,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+1190,Tenglin,Mr Gunnar Isidor,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+1191,Thayer,Mr John Borland,Mr,0,M,Male,2,Cherbourg,1,1st,49,0,No
+1192,Thayer,Mrs Marian Longstreth,Mrs,1,F,Female,2,Cherbourg,1,1st,39,1,Yes
+1193,Thayer,Mr John Borland Jr,Mr,0,M,Male,2,Cherbourg,1,1st,17,1,Yes
+1194,Theobald,Mr Thomas Leonard,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+1195,Thomas/Tannous,Mr John,Mr,0,M,Male,2,Cherbourg,3,3rd,34,0,No
+1196,Thomas/Tannous,Mr Tannous,Mr,0,M,Male,2,Cherbourg,3,3rd,16,0,No
+1197,Thompson,Mr Alexander Morrison,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1198,Thorne,Miss Gertrude Maybelle,Miss,1,F,Female,2,Cherbourg,1,1st,38,1,Yes
+1199,Thorneycroft,Mr Percival,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1200,Thorneycroft,Mrs Florence Kate,Mrs,1,F,Female,1,Southampton,3,3rd,32,1,Yes
+1201,Tikkanen,Mr Juho,Mr,0,M,Male,1,Southampton,3,3rd,32,0,No
+1202,Tobin,Mr Roger,Mr,0,M,Male,3,Queenstown,3,3rd,20,0,No
+1203,Todoroff,Mr Lalio,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+1204,Tomlin,Mr Ernest Portage,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+1205,Toomey,Miss Ellen Mary,Miss,1,F,Female,1,Southampton,2,2nd,48,1,Yes
+1206,Törber,Mr Ernst Wilhelm,Mr,0,M,Male,1,Southampton,3,3rd,41,0,No
+1207,Torfa,Mr Assad,Mr,0,M,Male,2,Cherbourg,3,3rd,20,0,No
+1208,Törnquist,Mr William Henry,Mr,0,M,Male,1,Southampton,3,3rd,25,1,Yes
+1209,Totevski,Mr Hristo Danchev,Mr,0,M,Male,1,Southampton,3,3rd,25,0,No
+1210,Troupiansky,Mr Moses Aaron,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+1211,Trout,Mrs Jessie Laird,Mrs,1,F,Female,1,Southampton,2,2nd,27,1,Yes
+1212,Troutt,Miss Edwina Celia,Miss,1,F,Female,1,Southampton,2,2nd,27,1,Yes
+1213,Tu’Mah,Mrs Hinnah,Mrs,1,F,Female,2,Cherbourg,3,3rd,27,1,Yes
+1214,Tu’Mah,Miss Mariyam,Miss,1,F,Female,2,Cherbourg,3,3rd,9,1,Yes
+1215,Tu’Mah,Master Jirjis Yusuf,Master,0,M,Male,2,Cherbourg,3,3rd,8,1,Yes
+1216,Tucker,Mr Gilbert Milligan Jr,Mr,0,M,Male,2,Cherbourg,1,1st,31,1,Yes
+1217,Turcin,Mr Stjepan,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1218,Turja,Miss Anna Sofia,Miss,1,F,Female,1,Southampton,3,3rd,18,1,Yes
+1219,Turkula,Mrs Hedwig,Mrs,1,F,Female,1,Southampton,3,3rd,63,1,Yes
+1220,Turpin,Mr William John,Mr,0,M,Male,1,Southampton,2,2nd,29,0,No
+1221,Turpin,Mrs Dorothy Ann,Mrs,1,F,Female,1,Southampton,2,2nd,26,0,No
+1222,Uruchurtu,Don. Manuel Ramirez,Don.,0,M,Male,2,Cherbourg,1,1st,39,0,No
+1223,Van Billiard,Mr Austin Blyler,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+1224,Van Billiard,Master James William,Master,0,M,Male,1,Southampton,3,3rd,10,0,No
+1225,Van Billiard,Master Walter John,Master,0,M,Male,1,Southampton,3,3rd,9,0,No
+1226,Van De Velde,Mr Johannes Josef,Mr,0,M,Male,1,Southampton,3,3rd,35,0,No
+1227,Van Den Steen,Mr Leo Peter,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+1228,Van Der Hoef,Mr Wyckoff,Mr,0,M,Male,0,Belfast,1,1st,61,0,No
+1229,Van Impe,Mr Jean Baptiste,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1230,Van Impe,Mrs Rosalie Paula,Mrs,1,F,Female,1,Southampton,3,3rd,30,0,No
+1231,Van Impe,Miss Catharina,Miss,1,F,Female,1,Southampton,3,3rd,10,0,No
+1232,Van Melckebeke,Mr Philemon,Mr,0,M,Male,1,Southampton,3,3rd,23,0,No
+1233,Vandercruyssen,Mr Victor,Mr,0,M,Male,1,Southampton,3,3rd,46,0,No
+1234,Vanderplancke,Mr Julius,Mr,0,M,Male,1,Southampton,3,3rd,31,0,No
+1235,Vanderplancke,Mrs Emelie Maria,Mrs,1,F,Female,1,Southampton,3,3rd,31,0,No
+1236,Vanderplancke,Miss Augusta Maria,Miss,1,F,Female,1,Southampton,3,3rd,18,0,No
+1237,Vanderplancke,Mr Leo Edmondus,Mr,0,M,Male,1,Southampton,3,3rd,15,0,No
+1238,Vandewalle,Mr Nestor Cyriel,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+1239,Vartanian,Mr David,Mr,0,M,Male,2,Cherbourg,3,3rd,22,0,No
+1240,Veal,Mr James,Mr,0,M,Male,1,Southampton,2,2nd,40,0,No
+1241,Vendel,Mr Olof Edvin,Mr,0,M,Male,1,Southampton,3,3rd,20,0,No
+1242,Veström,Miss Hulda Amanda Adolfina,Miss,1,F,Female,1,Southampton,3,3rd,14,0,No
+1243,Vovk,Mr Janko,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1244,Waelens,Mr Achille,Mr,0,M,Male,1,Southampton,3,3rd,22,0,No
+1245,Walker,Mr William Anderson,Mr,0,M,Male,1,Southampton,1,1st,48,0,No
+1246,Wallcroft,Miss Ellen “Nellie”,Miss,1,F,Female,1,Southampton,2,2nd,36,1,Yes
+1247,Ward,Miss Annie Moore (Maid to Mrs Charlotte Cardeza),Miss,1,F,Female,2,Cherbourg,1,1st,35,1,Yes
+1248,Ware,Mr John James,Mr,0,M,Male,1,Southampton,2,2nd,45,0,No
+1249,Ware,Mr Frederick,Mr,0,M,Male,1,Southampton,3,3rd,34,0,No
+1250,Ware,Mrs Florence Louise,Mrs,1,F,Female,1,Southampton,2,2nd,31,1,Yes
+1251,Ware,Mr William Jeffery,Mr,0,M,Male,1,Southampton,2,2nd,23,0,No
+1252,Warren,Mr Frank Manley,Mr,0,M,Male,2,Cherbourg,1,1st,63,0,No
+1253,Warren,Mrs Anna Sophia,Mrs,1,F,Female,2,Cherbourg,1,1st,60,1,Yes
+1254,Warren,Mr Charles William,Mr,0,M,Male,1,Southampton,3,3rd,30,0,No
+1255,Watson,Mr Ennis Hastings,Mr,0,M,Male,0,Belfast,2,2nd,19,0,No
+1256,Watt,Mrs Elizabeth,Mrs,1,F,Female,1,Southampton,2,2nd,40,1,Yes
+1257,Watt,Miss Robertha Josephine,Miss,1,F,Female,1,Southampton,2,2nd,12,1,Yes
+1258,Wazli,Mr Yousif Ahmed,Mr,0,M,Male,2,Cherbourg,3,3rd,23,0,No
+1259,Webber,Mr James,Mr,0,M,Male,1,Southampton,3,3rd,66,0,No
+1260,Webber,Miss Susan,Miss,1,F,Female,1,Southampton,2,2nd,37,1,Yes
+1261,Weir,Colonel John,Colonel,0,M,Male,1,Southampton,1,1st,59,0,No
+1262,Weisz,Mr Léopold,Mr,0,M,Male,1,Southampton,2,2nd,37,0,No
+1263,Weisz,Mrs Mathilde Françoise,Mrs,1,F,Female,1,Southampton,2,2nd,37,1,Yes
+1264,Wells,Mrs Addie Dart,Mrs,1,F,Female,1,Southampton,2,2nd,29,1,Yes
+1265,Wells,Miss Joan,Miss,1,F,Female,1,Southampton,2,2nd,4,1,Yes
+1266,Wells,Master Ralph Lester,Master,0,M,Male,1,Southampton,2,2nd,2,1,Yes
+1267,Wennerström,Mr August,Mr,0,M,Male,1,Southampton,3,3rd,27,1,Yes
+1268,West,Miss Barbara Joyce,Miss,1,F,Female,1,Southampton,2,2nd,0,1,Yes
+1269,West,Mr Edwy Arthur,Mr,0,M,Male,1,Southampton,2,2nd,36,0,No
+1270,West,Mrs Ada Mary,Mrs,1,F,Female,1,Southampton,2,2nd,33,1,Yes
+1271,West,Miss Constance Mirium,Miss,1,F,Female,1,Southampton,2,2nd,4,1,Yes
+1272,Wheadon,Mr Edward Henry,Mr,0,M,Male,1,Southampton,2,2nd,65,0,No
+1273,Wheeler,Mr Edwin Charles,Mr,0,M,Male,1,Southampton,2,2nd,24,0,No
+1274,Whilems,Mr Charles,Mr,0,M,Male,1,Southampton,2,2nd,31,1,Yes
+1275,White,Mrs Ella,Mrs,1,F,Female,2,Cherbourg,1,1st,55,1,Yes
+1276,White,Mr Percival Wayland,Mr,0,M,Male,1,Southampton,1,1st,54,0,No
+1277,White,Mr Richard Frasar,Mr,0,M,Male,1,Southampton,1,1st,21,0,No
+1278,Wick,Colonel George Dennick,Colonel,0,M,Male,1,Southampton,1,1st,57,0,No
+1279,Wick,Mrs Mary Peebles,Mrs,1,F,Female,1,Southampton,1,1st,45,1,Yes
+1280,Wick,Miss Mary Natalie,Miss,1,F,Female,1,Southampton,1,1st,31,1,Yes
+1281,Widegren,Mr Carl Peter,Mr,0,M,Male,1,Southampton,3,3rd,51,0,No
+1282,Widener,Mr George Dunton,Mr,0,M,Male,1,Southampton,1,1st,50,0,No
+1283,Widener,Mrs Eleanor,Mrs,1,F,Female,1,Southampton,1,1st,50,1,Yes
+1284,Widener,Mr Harry Elkins,Mr,0,M,Male,1,Southampton,1,1st,27,0,No
+1285,Wiklund,Mr Karl Johan,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1286,Wiklund,Mr Jakob Alfred,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+1287,Wilkes,Mrs Ellen,Mrs,1,F,Female,1,Southampton,3,3rd,47,1,Yes
+1288,Wilkinson,Mrs Elizabeth Anne,Mrs,1,F,Female,1,Southampton,2,2nd,35,1,Yes
+1289,Willard,Miss Constance,Miss,1,F,Female,1,Southampton,1,1st,21,1,Yes
+1290,Willer,Mr Aaron,Mr,0,M,Male,2,Cherbourg,3,3rd,37,0,No
+1291,Willey,Mr Edward John,Mr,0,M,Male,1,Southampton,3,3rd,18,0,No
+1292,Williams,Mr Charles Duane,Mr,0,M,Male,2,Cherbourg,1,1st,51,0,No
+1293,Williams,Mr Fletcher Fellowes Lambert,Mr,0,M,Male,1,Southampton,1,1st,43,0,No
+1294,Williams,Mr Howard Hugh,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+1295,Williams,Mr Leslie,Mr,0,M,Male,1,Southampton,3,3rd,28,0,No
+1296,Williams,Mr Charles Eugene,Mr,0,M,Male,1,Southampton,2,2nd,23,1,Yes
+1297,Williams,Mr Richard Norris II,Mr,0,M,Male,2,Cherbourg,1,1st,21,1,Yes
+1298,Wilson,Miss Helen Alice (Maid to Mrs Frederic Oakley Spedden),Miss,1,F,Female,2,Cherbourg,1,1st,31,1,Yes
+1299,Windeløv,Mr Einar,Mr,0,M,Male,1,Southampton,3,3rd,21,0,No
+1300,Wirz,Mr Albert,Mr,0,M,Male,1,Southampton,3,3rd,27,0,No
+1301,Wiseman,Mr Philippe,Mr,0,M,Male,1,Southampton,3,3rd,54,0,No
+1302,Wittevrongel,Mr Camilius Aloysius,Mr,0,M,Male,1,Southampton,3,3rd,36,0,No
+1303,Woodward,Mr John Wesley,Mr,0,M,Male,1,Southampton,2,2nd,32,0,No
+1304,Woolner,Mr Hugh,Mr,0,M,Male,1,Southampton,1,1st,45,1,Yes
+1305,Wright,Mr George,Mr,0,M,Male,1,Southampton,1,1st,62,0,No
+1306,Wright,Miss Marion,Miss,1,F,Female,1,Southampton,2,2nd,26,1,Yes
+1307,Yasbeck,Mr Antoni,Mr,0,M,Male,2,Cherbourg,3,3rd,27,1,Yes
+1308,Yazbeck,Mrs Selini,Mrs,1,F,Female,2,Cherbourg,3,3rd,15,0,No
+1309,Young,Miss Marie Grice,Miss,1,F,Female,2,Cherbourg,1,1st,36,1,Yes
+1310,Yousseff (Abi Saab),Mr Gerios,Mr,0,M,Male,2,Cherbourg,3,3rd,26,0,No
+1311,Youssiff (Sam’Aan),Mr Gerios,Mr,0,M,Male,2,Cherbourg,3,3rd,45,0,No
+1312,Yusuf,Mrs Katr in,Mrs,1,F,Female,2,Cherbourg,3,3rd,24,1,Yes
+1313,Yvois,Miss Henriette,Miss,1,F,Female,1,Southampton,2,2nd,24,0,No
+1314,Zakarian,Mr Ortin,Mr,0,M,Male,2,Cherbourg,3,3rd,27,0,No
+1315,Zakarian,Mr Mapriededer,Mr,0,M,Male,2,Cherbourg,3,3rd,22,0,No
+1316,Zenni,Mr Philip,Mr,0,M,Male,2,Cherbourg,3,3rd,22,1,Yes
+1317,Zimmermann,Mr Leo,Mr,0,M,Male,1,Southampton,3,3rd,29,0,No
